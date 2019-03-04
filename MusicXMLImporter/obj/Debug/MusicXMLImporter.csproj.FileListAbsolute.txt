@@ -1,0 +1,9 @@
+C:\Documents and Settings\user\Meus documentos\Visual Studio 2008\Projects\MusicXMLImporter\MusicXMLImporter\bin\Debug\MusicXMLImporter.exe
+C:\Documents and Settings\user\Meus documentos\Visual Studio 2008\Projects\MusicXMLImporter\MusicXMLImporter\bin\Debug\MusicXMLImporter.pdb
+C:\Documents and Settings\user\Meus documentos\Visual Studio 2008\Projects\MusicXMLImporter\MusicXMLImporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Meus documentos\Visual Studio 2008\Projects\MusicXMLImporter\MusicXMLImporter\obj\Debug\WindowsFormsApplication1.MusicXMLImporter.resources
+C:\Documents and Settings\user\Meus documentos\Visual Studio 2008\Projects\MusicXMLImporter\MusicXMLImporter\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\user\Meus documentos\Visual Studio 2008\Projects\MusicXMLImporter\MusicXMLImporter\obj\Debug\MusicXMLImporter.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Meus documentos\Visual Studio 2008\Projects\MusicXMLImporter\MusicXMLImporter\obj\Debug\MusicXMLImporter.exe
+C:\Documents and Settings\user\Meus documentos\Visual Studio 2008\Projects\MusicXMLImporter\MusicXMLImporter\obj\Debug\MusicXMLImporter.pdb
+C:\Documents and Settings\user\Meus documentos\Visual Studio 2008\Projects\MusicXMLImporter\MusicXMLImporter\obj\Debug\WindowsFormsApplication1.Form2.resources

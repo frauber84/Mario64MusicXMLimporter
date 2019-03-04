@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicXMLImporter", "MusicXMLImporter\MusicXMLImporter.csproj", "{0F462F48-9A9D-448C-9057-801C92B4B75D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F462F48-9A9D-448C-9057-801C92B4B75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F462F48-9A9D-448C-9057-801C92B4B75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F462F48-9A9D-448C-9057-801C92B4B75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F462F48-9A9D-448C-9057-801C92B4B75D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

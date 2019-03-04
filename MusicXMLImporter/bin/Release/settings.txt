@@ -1,0 +1,9 @@
+Tempo 120
+Loop 0
+GlobalVolume 10
+GlobalTrans 0
+NInst 17
+Ch 1 Melody              
+ChSet 1 1 10 5 0
+Ch 2 Pizzicato           
+ChSet 2 2 10 5 0

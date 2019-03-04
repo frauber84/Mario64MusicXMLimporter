@@ -1,0 +1,5356 @@
+Part P1
+Partname Melody              
+New Measure (0)
+rest c0 0
+New Measure (c0)
+rest c0 c0
+New Measure (180)
+rest c0 180
+New Measure (240)
+rest c0 240
+New Measure (300)
+note 44 c0 64 10 1 300
+New Measure (3c0)
+note 44 30 64 10 2 3c0
+note 4b 30 64 10 0 3f0
+note 49 30 64 10 0 420
+note 47 18 64 10 0 450
+note 46 18 64 10 0 468
+New Measure (480)
+note 44 30 64 10 0 480
+note 42 30 64 10 0 4b0
+note 40 30 64 10 0 4e0
+note 44 30 64 10 1 510
+New Measure (540)
+note 44 c0 64 10 2 540
+New Measure (600)
+note 46 30 64 10 0 600
+note 47 18 64 10 0 630
+note 49 18 64 10 0 648
+note 46 60 64 10 1 660
+New Measure (6c0)
+note 46 30 64 10 2 6c0
+note 47 18 64 10 0 6f0
+note 49 18 64 10 0 708
+note 4e 30 64 10 0 720
+note 4c 30 64 10 0 750
+New Measure (780)
+note 4b 18 64 10 0 780
+note 49 18 64 10 0 798
+note 47 18 64 10 0 7b0
+note 46 18 64 10 0 7c8
+New Measure (7e0)
+note 44 c0 64 10 1 7e0
+New Measure (8a0)
+note 44 c0 64 10 2 8a0
+New Measure (960)
+note 44 c0 64 10 1 960
+New Measure (a20)
+note 44 30 64 10 2 a20
+note 4b 30 64 10 0 a50
+note 49 30 64 10 0 a80
+note 47 18 64 10 0 ab0
+note 46 18 64 10 0 ac8
+New Measure (ae0)
+note 44 30 64 10 0 ae0
+note 42 30 64 10 0 b10
+note 40 30 64 10 0 b40
+note 44 30 64 10 1 b70
+New Measure (ba0)
+note 44 c0 64 10 2 ba0
+New Measure (c60)
+note 46 30 64 10 0 c60
+note 47 18 64 10 0 c90
+note 49 18 64 10 0 ca8
+note 46 60 64 10 1 cc0
+New Measure (d20)
+note 46 30 64 10 2 d20
+note 47 18 64 10 0 d50
+note 49 18 64 10 0 d68
+note 4e 30 64 10 0 d80
+note 4c 30 64 10 0 db0
+New Measure (de0)
+note 4b 18 64 10 0 de0
+note 49 18 64 10 0 df8
+note 47 18 64 10 0 e10
+note 46 18 64 10 0 e28
+New Measure (e40)
+note 44 c0 64 10 1 e40
+New Measure (f00)
+note 44 c0 64 10 2 f00
+New Measure (fc0)
+rest c0 fc0
+New Measure (1080)
+rest c0 1080
+New Measure (1140)
+rest c0 1140
+New Measure (1200)
+rest c0 1200
+New Measure (12c0)
+rest c0 12c0
+New Measure (1380)
+rest c0 1380
+New Measure (1440)
+rest c0 1440
+New Measure (1500)
+rest c0 1500
+New Measure (15c0)
+rest c0 15c0
+New Measure (1680)
+note 44 c0 64 10 1 1680
+New Measure (1740)
+note 44 30 64 10 2 1740
+note 4b 30 64 10 0 1770
+note 49 30 64 10 0 17a0
+note 47 18 64 10 0 17d0
+note 46 18 64 10 0 17e8
+New Measure (1800)
+note 44 30 64 10 0 1800
+note 42 30 64 10 0 1830
+note 40 30 64 10 0 1860
+note 44 30 64 10 1 1890
+New Measure (18c0)
+note 44 c0 64 10 2 18c0
+New Measure (1980)
+note 46 30 64 10 0 1980
+note 47 18 64 10 0 19b0
+note 49 18 64 10 0 19c8
+note 46 60 64 10 1 19e0
+New Measure (1a40)
+note 46 30 64 10 2 1a40
+note 47 18 64 10 0 1a70
+note 49 18 64 10 0 1a88
+note 4e 30 64 10 0 1aa0
+note 4c 30 64 10 0 1ad0
+New Measure (1b00)
+note 4b 18 64 10 0 1b00
+note 49 18 64 10 0 1b18
+note 47 18 64 10 0 1b30
+note 46 18 64 10 0 1b48
+New Measure (1b60)
+note 44 c0 64 10 1 1b60
+New Measure (1c20)
+note 44 c0 64 10 2 1c20
+New Measure (1ce0)
+note 44 c0 64 10 1 1ce0
+New Measure (1da0)
+note 44 30 64 10 2 1da0
+note 4b 30 64 10 0 1dd0
+note 49 30 64 10 0 1e00
+note 47 18 64 10 0 1e30
+note 46 18 64 10 0 1e48
+New Measure (1e60)
+note 44 30 64 10 0 1e60
+note 42 30 64 10 0 1e90
+note 40 30 64 10 0 1ec0
+note 44 30 64 10 1 1ef0
+New Measure (1f20)
+note 44 c0 64 10 2 1f20
+New Measure (1fe0)
+note 46 30 64 10 0 1fe0
+note 47 18 64 10 0 2010
+note 49 18 64 10 0 2028
+note 46 60 64 10 1 2040
+New Measure (20a0)
+note 46 30 64 10 2 20a0
+note 47 18 64 10 0 20d0
+note 49 18 64 10 0 20e8
+note 4e 30 64 10 0 2100
+note 4c 30 64 10 0 2130
+New Measure (2160)
+note 4b 18 64 10 0 2160
+note 49 18 64 10 0 2178
+note 47 18 64 10 0 2190
+note 46 18 64 10 0 21a8
+New Measure (21c0)
+note 44 c0 64 10 1 21c0
+New Measure (2280)
+note 44 c0 64 10 2 2280
+New Measure (2340)
+rest c0 2340
+New Measure (2400)
+rest c0 2400
+New Measure (24c0)
+rest c0 24c0
+New Measure (2580)
+rest c0 2580
+New Measure (2640)
+rest c0 2640
+New Measure (2700)
+rest c0 2700
+New Measure (27c0)
+rest c0 27c0
+New Measure (2880)
+rest c0 2880
+New Measure (2940)
+rest c0 2940
+New Measure (2a00)
+note 44 c0 64 10 1 2a00
+New Measure (2ac0)
+note 44 30 64 10 2 2ac0
+note 4b 30 64 10 0 2af0
+note 49 30 64 10 0 2b20
+note 47 18 64 10 0 2b50
+note 46 18 64 10 0 2b68
+New Measure (2b80)
+note 44 30 64 10 0 2b80
+note 42 30 64 10 0 2bb0
+note 40 30 64 10 0 2be0
+note 44 30 64 10 1 2c10
+New Measure (2c40)
+note 44 c0 64 10 2 2c40
+New Measure (2d00)
+note 46 30 64 10 0 2d00
+note 47 18 64 10 0 2d30
+note 49 18 64 10 0 2d48
+note 46 60 64 10 1 2d60
+New Measure (2dc0)
+note 46 30 64 10 2 2dc0
+note 47 18 64 10 0 2df0
+note 49 18 64 10 0 2e08
+note 4e 30 64 10 0 2e20
+note 4c 30 64 10 0 2e50
+New Measure (2e80)
+note 4b 18 64 10 0 2e80
+note 49 18 64 10 0 2e98
+note 47 18 64 10 0 2eb0
+note 46 18 64 10 0 2ec8
+New Measure (2ee0)
+note 44 c0 64 10 1 2ee0
+New Measure (2fa0)
+note 44 c0 64 10 2 2fa0
+New Measure (3060)
+note 44 c0 64 10 1 3060
+New Measure (3120)
+note 44 30 64 10 2 3120
+note 4b 30 64 10 0 3150
+note 49 30 64 10 0 3180
+note 47 18 64 10 0 31b0
+note 46 18 64 10 0 31c8
+New Measure (31e0)
+note 44 30 64 10 0 31e0
+note 42 30 64 10 0 3210
+note 40 30 64 10 0 3240
+note 44 30 64 10 1 3270
+New Measure (32a0)
+note 44 c0 64 10 2 32a0
+New Measure (3360)
+note 46 30 64 10 0 3360
+note 47 18 64 10 0 3390
+note 49 18 64 10 0 33a8
+note 46 60 64 10 1 33c0
+New Measure (3420)
+note 46 30 64 10 2 3420
+note 47 18 64 10 0 3450
+note 49 18 64 10 0 3468
+note 4e 30 64 10 0 3480
+note 4c 30 64 10 0 34b0
+New Measure (34e0)
+note 4b 18 64 10 0 34e0
+note 49 18 64 10 0 34f8
+note 47 18 64 10 0 3510
+note 46 18 64 10 0 3528
+New Measure (3540)
+note 44 c0 64 10 1 3540
+New Measure (3600)
+note 44 c0 64 10 2 3600
+New Measure (36c0)
+rest c0 36c0
+New Measure (3780)
+rest c0 3780
+New Measure (3840)
+rest c0 3840
+New Measure (3900)
+rest c0 3900
+New Measure (39c0)
+rest c0 39c0
+New Measure (3a80)
+rest c0 3a80
+New Measure (3b40)
+rest c0 3b40
+New Measure (3c00)
+rest c0 3c00
+New Measure (3cc0)
+rest c0 3cc0
+New Measure (3d80)
+note 44 c0 64 10 1 3d80
+New Measure (3e40)
+note 44 30 64 10 2 3e40
+note 4b 30 64 10 0 3e70
+note 49 30 64 10 0 3ea0
+note 47 18 64 10 0 3ed0
+note 46 18 64 10 0 3ee8
+New Measure (3f00)
+note 44 30 64 10 0 3f00
+note 42 30 64 10 0 3f30
+note 40 30 64 10 0 3f60
+note 44 30 64 10 1 3f90
+New Measure (3fc0)
+note 44 c0 64 10 2 3fc0
+New Measure (4080)
+note 46 30 64 10 0 4080
+note 47 18 64 10 0 40b0
+note 49 18 64 10 0 40c8
+note 46 60 64 10 1 40e0
+New Measure (4140)
+note 46 30 64 10 2 4140
+note 47 18 64 10 0 4170
+note 49 18 64 10 0 4188
+note 4e 30 64 10 0 41a0
+note 4c 30 64 10 0 41d0
+New Measure (4200)
+note 4b 18 64 10 0 4200
+note 49 18 64 10 0 4218
+note 47 18 64 10 0 4230
+note 46 18 64 10 0 4248
+New Measure (4260)
+note 44 c0 64 10 1 4260
+New Measure (4320)
+note 44 c0 64 10 2 4320
+New Measure (43e0)
+note 44 c0 64 10 1 43e0
+New Measure (44a0)
+note 44 30 64 10 2 44a0
+note 4b 30 64 10 0 44d0
+note 49 30 64 10 0 4500
+note 47 18 64 10 0 4530
+note 46 18 64 10 0 4548
+New Measure (4560)
+note 44 30 64 10 0 4560
+note 42 30 64 10 0 4590
+note 40 30 64 10 0 45c0
+note 44 30 64 10 1 45f0
+New Measure (4620)
+note 44 c0 64 10 2 4620
+New Measure (46e0)
+note 46 30 64 10 0 46e0
+note 47 18 64 10 0 4710
+note 49 18 64 10 0 4728
+note 46 60 64 10 1 4740
+New Measure (47a0)
+note 46 30 64 10 2 47a0
+note 47 18 64 10 0 47d0
+note 49 18 64 10 0 47e8
+note 4e 30 64 10 0 4800
+note 4c 30 64 10 0 4830
+New Measure (4860)
+note 4b 18 64 10 0 4860
+note 49 18 64 10 0 4878
+note 47 18 64 10 0 4890
+note 46 18 64 10 0 48a8
+New Measure (48c0)
+note 44 180 64 10 0 48c0
+New Measure (4980)
+TotalTimestamp 4a40
+Part P2
+Partname Contrabass          
+New Measure (0)
+note 08 c0 64 10 1 0
+New Measure (c0)
+note 08 c0 64 10 2 c0
+New Measure (180)
+note 08 c0 64 10 1 180
+New Measure (240)
+note 08 c0 64 10 2 240
+New Measure (300)
+rest c0 300
+New Measure (3c0)
+rest c0 3c0
+New Measure (480)
+rest c0 480
+New Measure (540)
+rest c0 540
+New Measure (600)
+rest c0 600
+New Measure (6c0)
+rest c0 6c0
+New Measure (780)
+rest 60 780
+New Measure (7e0)
+rest c0 7e0
+New Measure (8a0)
+rest c0 8a0
+New Measure (960)
+rest c0 960
+New Measure (a20)
+rest c0 a20
+New Measure (ae0)
+rest c0 ae0
+New Measure (ba0)
+rest c0 ba0
+New Measure (c60)
+rest c0 c60
+New Measure (d20)
+rest c0 d20
+New Measure (de0)
+rest 60 de0
+New Measure (e40)
+rest c0 e40
+New Measure (f00)
+rest c0 f00
+New Measure (fc0)
+note 12 18 64 10 0 fc0
+note 12 30 64 10 0 fd8
+note 12 18 64 10 0 1008
+note 12 18 64 10 0 1020
+note 12 30 64 10 0 1038
+note 12 18 64 10 0 1068
+New Measure (1080)
+note 10 18 64 10 0 1080
+note 10 30 64 10 0 1098
+note 10 18 64 10 0 10c8
+note 10 18 64 10 0 10e0
+note 10 30 64 10 0 10f8
+note 10 18 64 10 0 1128
+New Measure (1140)
+note 12 18 64 10 0 1140
+note 12 30 64 10 0 1158
+note 12 18 64 10 0 1188
+note 12 18 64 10 0 11a0
+note 12 30 64 10 0 11b8
+note 12 18 64 10 0 11e8
+New Measure (1200)
+note 10 18 64 10 0 1200
+note 10 30 64 10 0 1218
+note 10 18 64 10 0 1248
+note 10 18 64 10 0 1260
+note 10 30 64 10 0 1278
+note 10 18 64 10 0 12a8
+New Measure (12c0)
+note 0d 18 64 10 0 12c0
+note 0d 30 64 10 0 12d8
+note 0d 18 64 10 0 1308
+note 0f 18 64 10 0 1320
+note 0f 30 64 10 0 1338
+note 0f 18 64 10 0 1368
+New Measure (1380)
+note 08 c0 64 10 0 1380
+New Measure (1440)
+note 08 c0 64 10 0 1440
+New Measure (1500)
+note 08 c0 64 10 0 1500
+New Measure (15c0)
+note 08 c0 64 10 0 15c0
+New Measure (1680)
+note 08 c0 64 10 0 1680
+New Measure (1740)
+note 08 c0 64 10 0 1740
+New Measure (1800)
+note 08 c0 64 10 0 1800
+New Measure (18c0)
+note 08 c0 64 10 0 18c0
+New Measure (1980)
+note 12 60 64 10 0 1980
+note 10 60 64 10 0 19e0
+New Measure (1a40)
+note 0f 60 64 10 0 1a40
+note 0d 60 64 10 0 1aa0
+New Measure (1b00)
+note 0f 60 64 10 0 1b00
+New Measure (1b60)
+note 08 c0 64 10 0 1b60
+New Measure (1c20)
+note 08 c0 64 10 0 1c20
+New Measure (1ce0)
+note 08 c0 64 10 0 1ce0
+New Measure (1da0)
+note 08 c0 64 10 0 1da0
+New Measure (1e60)
+note 08 c0 64 10 0 1e60
+New Measure (1f20)
+note 08 c0 64 10 0 1f20
+New Measure (1fe0)
+note 12 60 64 10 0 1fe0
+note 10 60 64 10 0 2040
+New Measure (20a0)
+note 0f 60 64 10 0 20a0
+note 0d 60 64 10 0 2100
+New Measure (2160)
+note 0f 60 64 10 0 2160
+New Measure (21c0)
+note 08 c0 64 10 0 21c0
+New Measure (2280)
+note 08 c0 64 10 0 2280
+New Measure (2340)
+note 12 18 64 10 0 2340
+note 12 30 64 10 0 2358
+note 12 18 64 10 0 2388
+note 12 18 64 10 0 23a0
+note 12 30 64 10 0 23b8
+note 12 18 64 10 0 23e8
+New Measure (2400)
+note 10 18 64 10 0 2400
+note 10 30 64 10 0 2418
+note 10 18 64 10 0 2448
+note 10 18 64 10 0 2460
+note 10 30 64 10 0 2478
+note 10 18 64 10 0 24a8
+New Measure (24c0)
+note 12 18 64 10 0 24c0
+note 12 30 64 10 0 24d8
+note 12 18 64 10 0 2508
+note 12 18 64 10 0 2520
+note 12 30 64 10 0 2538
+note 12 18 64 10 0 2568
+New Measure (2580)
+note 10 18 64 10 0 2580
+note 10 30 64 10 0 2598
+note 10 18 64 10 0 25c8
+note 10 18 64 10 0 25e0
+note 10 30 64 10 0 25f8
+note 10 18 64 10 0 2628
+New Measure (2640)
+note 0d 18 64 10 0 2640
+note 0d 30 64 10 0 2658
+note 0d 18 64 10 0 2688
+note 0f 18 64 10 0 26a0
+note 0f 30 64 10 0 26b8
+note 0f 18 64 10 0 26e8
+New Measure (2700)
+note 08 c0 64 10 0 2700
+New Measure (27c0)
+note 08 c0 64 10 0 27c0
+New Measure (2880)
+note 08 c0 64 10 0 2880
+New Measure (2940)
+note 08 c0 64 10 0 2940
+New Measure (2a00)
+note 08 c0 64 10 0 2a00
+New Measure (2ac0)
+note 08 c0 64 10 0 2ac0
+New Measure (2b80)
+note 08 c0 64 10 0 2b80
+New Measure (2c40)
+note 08 c0 64 10 0 2c40
+New Measure (2d00)
+note 12 60 64 10 0 2d00
+note 10 60 64 10 0 2d60
+New Measure (2dc0)
+note 0f 60 64 10 0 2dc0
+note 0d 60 64 10 0 2e20
+New Measure (2e80)
+note 0f 60 64 10 0 2e80
+New Measure (2ee0)
+note 08 c0 64 10 0 2ee0
+New Measure (2fa0)
+note 08 c0 64 10 0 2fa0
+New Measure (3060)
+note 08 c0 64 10 0 3060
+New Measure (3120)
+note 08 c0 64 10 0 3120
+New Measure (31e0)
+note 08 c0 64 10 0 31e0
+New Measure (32a0)
+note 08 c0 64 10 0 32a0
+New Measure (3360)
+note 12 60 64 10 0 3360
+note 10 60 64 10 0 33c0
+New Measure (3420)
+note 0f 60 64 10 0 3420
+note 0d 60 64 10 0 3480
+New Measure (34e0)
+note 0f 60 64 10 0 34e0
+New Measure (3540)
+note 08 c0 64 10 0 3540
+New Measure (3600)
+note 08 c0 64 10 0 3600
+New Measure (36c0)
+note 12 18 64 10 0 36c0
+note 12 30 64 10 0 36d8
+note 12 18 64 10 0 3708
+note 12 18 64 10 0 3720
+note 12 30 64 10 0 3738
+note 12 18 64 10 0 3768
+New Measure (3780)
+note 10 18 64 10 0 3780
+note 10 30 64 10 0 3798
+note 10 18 64 10 0 37c8
+note 10 18 64 10 0 37e0
+note 10 30 64 10 0 37f8
+note 10 18 64 10 0 3828
+New Measure (3840)
+note 12 18 64 10 0 3840
+note 12 30 64 10 0 3858
+note 12 18 64 10 0 3888
+note 12 18 64 10 0 38a0
+note 12 30 64 10 0 38b8
+note 12 18 64 10 0 38e8
+New Measure (3900)
+note 10 18 64 10 0 3900
+note 10 30 64 10 0 3918
+note 10 18 64 10 0 3948
+note 10 18 64 10 0 3960
+note 10 30 64 10 0 3978
+note 10 18 64 10 0 39a8
+New Measure (39c0)
+note 0d 18 64 10 0 39c0
+note 0d 30 64 10 0 39d8
+note 0d 18 64 10 0 3a08
+note 0f 18 64 10 0 3a20
+note 0f 30 64 10 0 3a38
+note 0f 18 64 10 0 3a68
+New Measure (3a80)
+note 08 c0 64 10 0 3a80
+New Measure (3b40)
+note 08 c0 64 10 0 3b40
+New Measure (3c00)
+note 08 c0 64 10 0 3c00
+New Measure (3cc0)
+note 08 c0 64 10 0 3cc0
+New Measure (3d80)
+note 08 c0 64 10 0 3d80
+New Measure (3e40)
+note 08 c0 64 10 0 3e40
+New Measure (3f00)
+note 08 c0 64 10 0 3f00
+New Measure (3fc0)
+note 08 c0 64 10 0 3fc0
+New Measure (4080)
+note 12 60 64 10 0 4080
+note 10 60 64 10 0 40e0
+New Measure (4140)
+note 0f 60 64 10 0 4140
+note 0d 60 64 10 0 41a0
+New Measure (4200)
+note 0f 60 64 10 0 4200
+New Measure (4260)
+note 08 c0 64 10 0 4260
+New Measure (4320)
+note 08 c0 64 10 0 4320
+New Measure (43e0)
+note 08 c0 64 10 0 43e0
+New Measure (44a0)
+note 08 c0 64 10 0 44a0
+New Measure (4560)
+note 08 c0 64 10 0 4560
+New Measure (4620)
+note 08 c0 64 10 0 4620
+New Measure (46e0)
+note 12 60 64 10 0 46e0
+note 10 60 64 10 0 4740
+New Measure (47a0)
+note 0f 60 64 10 0 47a0
+note 0d 60 64 10 0 4800
+New Measure (4860)
+note 0f 60 64 10 0 4860
+New Measure (48c0)
+note 08 c0 64 10 0 48c0
+New Measure (4980)
+note 08 c0 64 10 0 4980
+TotalTimestamp 4a40
+Part P3
+Partname Pizzicato           
+New Measure (0)
+note 20 0c 64 10 0 0
+rest 0c c
+note 27 0c 64 10 0 18
+rest 0c 24
+note 23 0c 64 10 0 30
+rest 0c 3c
+note 27 0c 64 10 0 48
+rest 0c 54
+note 20 0c 64 10 0 60
+rest 0c 6c
+note 28 0c 64 10 0 78
+rest 0c 84
+note 25 0c 64 10 0 90
+rest 0c 9c
+note 28 0c 64 10 0 a8
+rest 0c b4
+New Measure (c0)
+note 20 0c 64 10 0 c0
+rest 0c cc
+note 2a 0c 64 10 0 d8
+rest 0c e4
+note 27 0c 64 10 0 f0
+rest 0c fc
+note 2a 0c 64 10 0 108
+rest 0c 114
+note 20 0c 64 10 0 120
+rest 0c 12c
+note 28 0c 64 10 0 138
+rest 0c 144
+note 25 0c 64 10 0 150
+rest 0c 15c
+note 28 0c 64 10 0 168
+rest 0c 174
+New Measure (180)
+note 20 0c 64 10 0 180
+rest 0c 18c
+note 27 0c 64 10 0 198
+rest 0c 1a4
+note 23 0c 64 10 0 1b0
+rest 0c 1bc
+note 27 0c 64 10 0 1c8
+rest 0c 1d4
+note 20 0c 64 10 0 1e0
+rest 0c 1ec
+note 28 0c 64 10 0 1f8
+rest 0c 204
+note 25 0c 64 10 0 210
+rest 0c 21c
+note 28 0c 64 10 0 228
+rest 0c 234
+New Measure (240)
+note 20 0c 64 10 0 240
+rest 0c 24c
+note 2a 0c 64 10 0 258
+rest 0c 264
+note 27 0c 64 10 0 270
+rest 0c 27c
+note 2a 0c 64 10 0 288
+rest 0c 294
+note 20 0c 64 10 0 2a0
+rest 0c 2ac
+note 28 0c 64 10 0 2b8
+rest 0c 2c4
+note 25 0c 64 10 0 2d0
+rest 0c 2dc
+note 28 0c 64 10 0 2e8
+rest 0c 2f4
+New Measure (300)
+note 20 0c 64 10 0 300
+rest 0c 30c
+note 27 0c 64 10 0 318
+rest 0c 324
+note 23 0c 64 10 0 330
+rest 0c 33c
+note 27 0c 64 10 0 348
+rest 0c 354
+note 20 0c 64 10 0 360
+rest 0c 36c
+note 28 0c 64 10 0 378
+rest 0c 384
+note 25 0c 64 10 0 390
+rest 0c 39c
+note 28 0c 64 10 0 3a8
+rest 0c 3b4
+New Measure (3c0)
+note 20 0c 64 10 0 3c0
+rest 0c 3cc
+note 2a 0c 64 10 0 3d8
+rest 0c 3e4
+note 27 0c 64 10 0 3f0
+rest 0c 3fc
+note 2a 0c 64 10 0 408
+rest 0c 414
+note 20 0c 64 10 0 420
+rest 0c 42c
+note 28 0c 64 10 0 438
+rest 0c 444
+note 25 0c 64 10 0 450
+rest 0c 45c
+note 28 0c 64 10 0 468
+rest 0c 474
+New Measure (480)
+note 20 0c 64 10 0 480
+rest 0c 48c
+note 27 0c 64 10 0 498
+rest 0c 4a4
+note 23 0c 64 10 0 4b0
+rest 0c 4bc
+note 27 0c 64 10 0 4c8
+rest 0c 4d4
+note 20 0c 64 10 0 4e0
+rest 0c 4ec
+note 28 0c 64 10 0 4f8
+rest 0c 504
+note 25 0c 64 10 0 510
+rest 0c 51c
+note 28 0c 64 10 0 528
+rest 0c 534
+New Measure (540)
+note 20 0c 64 10 0 540
+rest 0c 54c
+note 2a 0c 64 10 0 558
+rest 0c 564
+note 27 0c 64 10 0 570
+rest 0c 57c
+note 2a 0c 64 10 0 588
+rest 0c 594
+note 20 0c 64 10 0 5a0
+rest 0c 5ac
+note 28 0c 64 10 0 5b8
+rest 0c 5c4
+note 25 0c 64 10 0 5d0
+rest 0c 5dc
+note 28 0c 64 10 0 5e8
+rest 0c 5f4
+New Measure (600)
+note 1e 06 64 10 0 600
+rest 12 606
+note 27 06 64 10 0 618
+rest 12 61e
+note 22 06 64 10 0 630
+rest 12 636
+note 27 06 64 10 0 648
+rest 12 64e
+note 1c 06 64 10 0 660
+rest 12 666
+note 23 06 64 10 0 678
+rest 12 67e
+note 20 06 64 10 0 690
+rest 12 696
+note 23 06 64 10 0 6a8
+rest 12 6ae
+New Measure (6c0)
+note 1b 06 64 10 0 6c0
+rest 12 6c6
+note 22 06 64 10 0 6d8
+rest 12 6de
+note 1e 06 64 10 0 6f0
+rest 12 6f6
+note 22 06 64 10 0 708
+rest 12 70e
+note 19 06 64 10 0 720
+rest 12 726
+note 20 06 64 10 0 738
+rest 12 73e
+note 1c 06 64 10 0 750
+rest 12 756
+note 20 06 64 10 0 768
+rest 12 76e
+New Measure (780)
+note 1b 06 64 10 0 780
+rest 12 786
+note 22 06 64 10 0 798
+rest 12 79e
+note 1e 06 64 10 0 7b0
+rest 12 7b6
+note 22 06 64 10 0 7c8
+rest 12 7ce
+New Measure (7e0)
+note 20 0c 64 10 0 7e0
+rest 0c 7ec
+note 27 0c 64 10 0 7f8
+rest 0c 804
+note 23 0c 64 10 0 810
+rest 0c 81c
+note 27 0c 64 10 0 828
+rest 0c 834
+note 20 0c 64 10 0 840
+rest 0c 84c
+note 28 0c 64 10 0 858
+rest 0c 864
+note 25 0c 64 10 0 870
+rest 0c 87c
+note 28 0c 64 10 0 888
+rest 0c 894
+New Measure (8a0)
+note 20 0c 64 10 0 8a0
+rest 0c 8ac
+note 2a 0c 64 10 0 8b8
+rest 0c 8c4
+note 27 0c 64 10 0 8d0
+rest 0c 8dc
+note 2a 0c 64 10 0 8e8
+rest 0c 8f4
+note 20 0c 64 10 0 900
+rest 0c 90c
+note 28 0c 64 10 0 918
+rest 0c 924
+note 25 0c 64 10 0 930
+rest 0c 93c
+note 28 0c 64 10 0 948
+rest 0c 954
+New Measure (960)
+note 20 0c 64 10 0 960
+rest 0c 96c
+note 27 0c 64 10 0 978
+rest 0c 984
+note 23 0c 64 10 0 990
+rest 0c 99c
+note 27 0c 64 10 0 9a8
+rest 0c 9b4
+note 20 0c 64 10 0 9c0
+rest 0c 9cc
+note 28 0c 64 10 0 9d8
+rest 0c 9e4
+note 25 0c 64 10 0 9f0
+rest 0c 9fc
+note 28 0c 64 10 0 a08
+rest 0c a14
+New Measure (a20)
+note 20 0c 64 10 0 a20
+rest 0c a2c
+note 2a 0c 64 10 0 a38
+rest 0c a44
+note 27 0c 64 10 0 a50
+rest 0c a5c
+note 2a 0c 64 10 0 a68
+rest 0c a74
+note 20 0c 64 10 0 a80
+rest 0c a8c
+note 28 0c 64 10 0 a98
+rest 0c aa4
+note 25 0c 64 10 0 ab0
+rest 0c abc
+note 28 0c 64 10 0 ac8
+rest 0c ad4
+New Measure (ae0)
+note 20 0c 64 10 0 ae0
+rest 0c aec
+note 27 0c 64 10 0 af8
+rest 0c b04
+note 23 0c 64 10 0 b10
+rest 0c b1c
+note 27 0c 64 10 0 b28
+rest 0c b34
+note 20 0c 64 10 0 b40
+rest 0c b4c
+note 28 0c 64 10 0 b58
+rest 0c b64
+note 25 0c 64 10 0 b70
+rest 0c b7c
+note 28 0c 64 10 0 b88
+rest 0c b94
+New Measure (ba0)
+note 20 0c 64 10 0 ba0
+rest 0c bac
+note 2a 0c 64 10 0 bb8
+rest 0c bc4
+note 27 0c 64 10 0 bd0
+rest 0c bdc
+note 2a 0c 64 10 0 be8
+rest 0c bf4
+note 20 0c 64 10 0 c00
+rest 0c c0c
+note 28 0c 64 10 0 c18
+rest 0c c24
+note 25 0c 64 10 0 c30
+rest 0c c3c
+note 28 0c 64 10 0 c48
+rest 0c c54
+New Measure (c60)
+note 1e 06 64 10 0 c60
+rest 12 c66
+note 27 06 64 10 0 c78
+rest 12 c7e
+note 22 06 64 10 0 c90
+rest 12 c96
+note 27 06 64 10 0 ca8
+rest 12 cae
+note 1c 06 64 10 0 cc0
+rest 12 cc6
+note 23 06 64 10 0 cd8
+rest 12 cde
+note 20 06 64 10 0 cf0
+rest 12 cf6
+note 23 06 64 10 0 d08
+rest 12 d0e
+New Measure (d20)
+note 1b 06 64 10 0 d20
+rest 12 d26
+note 22 06 64 10 0 d38
+rest 12 d3e
+note 1e 06 64 10 0 d50
+rest 12 d56
+note 22 06 64 10 0 d68
+rest 12 d6e
+note 19 06 64 10 0 d80
+rest 12 d86
+note 20 06 64 10 0 d98
+rest 12 d9e
+note 1c 06 64 10 0 db0
+rest 12 db6
+note 20 06 64 10 0 dc8
+rest 12 dce
+New Measure (de0)
+note 1b 06 64 10 0 de0
+rest 12 de6
+note 22 06 64 10 0 df8
+rest 12 dfe
+note 1e 06 64 10 0 e10
+rest 12 e16
+note 22 06 64 10 0 e28
+rest 12 e2e
+New Measure (e40)
+note 20 0c 64 10 0 e40
+rest 0c e4c
+note 27 0c 64 10 0 e58
+rest 0c e64
+note 23 0c 64 10 0 e70
+rest 0c e7c
+note 27 0c 64 10 0 e88
+rest 0c e94
+note 20 0c 64 10 0 ea0
+rest 0c eac
+note 28 0c 64 10 0 eb8
+rest 0c ec4
+note 25 0c 64 10 0 ed0
+rest 0c edc
+note 28 0c 64 10 0 ee8
+rest 0c ef4
+New Measure (f00)
+note 20 0c 64 10 0 f00
+rest 0c f0c
+note 2a 0c 64 10 0 f18
+rest 0c f24
+note 27 0c 64 10 0 f30
+rest 0c f3c
+note 2a 0c 64 10 0 f48
+rest 0c f54
+note 20 0c 64 10 0 f60
+rest 0c f6c
+note 28 0c 64 10 0 f78
+rest 0c f84
+note 25 0c 64 10 0 f90
+rest 0c f9c
+note 28 0c 64 10 0 fa8
+rest 0c fb4
+New Measure (fc0)
+rest c0 fc0
+New Measure (1080)
+rest c0 1080
+New Measure (1140)
+rest c0 1140
+New Measure (1200)
+rest c0 1200
+New Measure (12c0)
+rest c0 12c0
+New Measure (1380)
+note 20 0c 64 10 0 1380
+rest 0c 138c
+note 27 0c 64 10 0 1398
+rest 0c 13a4
+note 23 0c 64 10 0 13b0
+rest 0c 13bc
+note 27 0c 64 10 0 13c8
+rest 0c 13d4
+note 20 0c 64 10 0 13e0
+rest 0c 13ec
+note 28 0c 64 10 0 13f8
+rest 0c 1404
+note 25 0c 64 10 0 1410
+rest 0c 141c
+note 28 0c 64 10 0 1428
+rest 0c 1434
+New Measure (1440)
+note 20 0c 64 10 0 1440
+rest 0c 144c
+note 2a 0c 64 10 0 1458
+rest 0c 1464
+note 27 0c 64 10 0 1470
+rest 0c 147c
+note 2a 0c 64 10 0 1488
+rest 0c 1494
+note 20 0c 64 10 0 14a0
+rest 0c 14ac
+note 28 0c 64 10 0 14b8
+rest 0c 14c4
+note 25 0c 64 10 0 14d0
+rest 0c 14dc
+note 28 0c 64 10 0 14e8
+rest 0c 14f4
+New Measure (1500)
+note 20 0c 64 10 0 1500
+rest 0c 150c
+note 27 0c 64 10 0 1518
+rest 0c 1524
+note 23 0c 64 10 0 1530
+rest 0c 153c
+note 27 0c 64 10 0 1548
+rest 0c 1554
+note 20 0c 64 10 0 1560
+rest 0c 156c
+note 28 0c 64 10 0 1578
+rest 0c 1584
+note 25 0c 64 10 0 1590
+rest 0c 159c
+note 28 0c 64 10 0 15a8
+rest 0c 15b4
+New Measure (15c0)
+note 20 0c 64 10 0 15c0
+rest 0c 15cc
+note 2a 0c 64 10 0 15d8
+rest 0c 15e4
+note 27 0c 64 10 0 15f0
+rest 0c 15fc
+note 2a 0c 64 10 0 1608
+rest 0c 1614
+note 20 0c 64 10 0 1620
+rest 0c 162c
+note 28 0c 64 10 0 1638
+rest 0c 1644
+note 25 0c 64 10 0 1650
+rest 0c 165c
+note 28 0c 64 10 0 1668
+rest 0c 1674
+New Measure (1680)
+note 20 0c 64 10 0 1680
+rest 0c 168c
+note 27 0c 64 10 0 1698
+rest 0c 16a4
+note 23 0c 64 10 0 16b0
+rest 0c 16bc
+note 27 0c 64 10 0 16c8
+rest 0c 16d4
+note 20 0c 64 10 0 16e0
+rest 0c 16ec
+note 28 0c 64 10 0 16f8
+rest 0c 1704
+note 25 0c 64 10 0 1710
+rest 0c 171c
+note 28 0c 64 10 0 1728
+rest 0c 1734
+New Measure (1740)
+note 20 0c 64 10 0 1740
+rest 0c 174c
+note 2a 0c 64 10 0 1758
+rest 0c 1764
+note 27 0c 64 10 0 1770
+rest 0c 177c
+note 2a 0c 64 10 0 1788
+rest 0c 1794
+note 20 0c 64 10 0 17a0
+rest 0c 17ac
+note 28 0c 64 10 0 17b8
+rest 0c 17c4
+note 25 0c 64 10 0 17d0
+rest 0c 17dc
+note 28 0c 64 10 0 17e8
+rest 0c 17f4
+New Measure (1800)
+note 20 0c 64 10 0 1800
+rest 0c 180c
+note 27 0c 64 10 0 1818
+rest 0c 1824
+note 23 0c 64 10 0 1830
+rest 0c 183c
+note 27 0c 64 10 0 1848
+rest 0c 1854
+note 20 0c 64 10 0 1860
+rest 0c 186c
+note 28 0c 64 10 0 1878
+rest 0c 1884
+note 25 0c 64 10 0 1890
+rest 0c 189c
+note 28 0c 64 10 0 18a8
+rest 0c 18b4
+New Measure (18c0)
+note 20 0c 64 10 0 18c0
+rest 0c 18cc
+note 2a 0c 64 10 0 18d8
+rest 0c 18e4
+note 27 0c 64 10 0 18f0
+rest 0c 18fc
+note 2a 0c 64 10 0 1908
+rest 0c 1914
+note 20 0c 64 10 0 1920
+rest 0c 192c
+note 28 0c 64 10 0 1938
+rest 0c 1944
+note 25 0c 64 10 0 1950
+rest 0c 195c
+note 28 0c 64 10 0 1968
+rest 0c 1974
+New Measure (1980)
+note 1e 06 64 10 0 1980
+rest 12 1986
+note 27 06 64 10 0 1998
+rest 12 199e
+note 22 06 64 10 0 19b0
+rest 12 19b6
+note 27 06 64 10 0 19c8
+rest 12 19ce
+note 1c 06 64 10 0 19e0
+rest 12 19e6
+note 23 06 64 10 0 19f8
+rest 12 19fe
+note 20 06 64 10 0 1a10
+rest 12 1a16
+note 23 06 64 10 0 1a28
+rest 12 1a2e
+New Measure (1a40)
+note 1b 06 64 10 0 1a40
+rest 12 1a46
+note 22 06 64 10 0 1a58
+rest 12 1a5e
+note 1e 06 64 10 0 1a70
+rest 12 1a76
+note 22 06 64 10 0 1a88
+rest 12 1a8e
+note 19 06 64 10 0 1aa0
+rest 12 1aa6
+note 20 06 64 10 0 1ab8
+rest 12 1abe
+note 1c 06 64 10 0 1ad0
+rest 12 1ad6
+note 20 06 64 10 0 1ae8
+rest 12 1aee
+New Measure (1b00)
+note 1b 06 64 10 0 1b00
+rest 12 1b06
+note 22 06 64 10 0 1b18
+rest 12 1b1e
+note 1e 06 64 10 0 1b30
+rest 12 1b36
+note 22 06 64 10 0 1b48
+rest 12 1b4e
+New Measure (1b60)
+note 20 0c 64 10 0 1b60
+rest 0c 1b6c
+note 27 0c 64 10 0 1b78
+rest 0c 1b84
+note 23 0c 64 10 0 1b90
+rest 0c 1b9c
+note 27 0c 64 10 0 1ba8
+rest 0c 1bb4
+note 20 0c 64 10 0 1bc0
+rest 0c 1bcc
+note 28 0c 64 10 0 1bd8
+rest 0c 1be4
+note 25 0c 64 10 0 1bf0
+rest 0c 1bfc
+note 28 0c 64 10 0 1c08
+rest 0c 1c14
+New Measure (1c20)
+note 20 0c 64 10 0 1c20
+rest 0c 1c2c
+note 2a 0c 64 10 0 1c38
+rest 0c 1c44
+note 27 0c 64 10 0 1c50
+rest 0c 1c5c
+note 2a 0c 64 10 0 1c68
+rest 0c 1c74
+note 20 0c 64 10 0 1c80
+rest 0c 1c8c
+note 28 0c 64 10 0 1c98
+rest 0c 1ca4
+note 25 0c 64 10 0 1cb0
+rest 0c 1cbc
+note 28 0c 64 10 0 1cc8
+rest 0c 1cd4
+New Measure (1ce0)
+note 20 0c 64 10 0 1ce0
+rest 0c 1cec
+note 27 0c 64 10 0 1cf8
+rest 0c 1d04
+note 23 0c 64 10 0 1d10
+rest 0c 1d1c
+note 27 0c 64 10 0 1d28
+rest 0c 1d34
+note 20 0c 64 10 0 1d40
+rest 0c 1d4c
+note 28 0c 64 10 0 1d58
+rest 0c 1d64
+note 25 0c 64 10 0 1d70
+rest 0c 1d7c
+note 28 0c 64 10 0 1d88
+rest 0c 1d94
+New Measure (1da0)
+note 20 0c 64 10 0 1da0
+rest 0c 1dac
+note 2a 0c 64 10 0 1db8
+rest 0c 1dc4
+note 27 0c 64 10 0 1dd0
+rest 0c 1ddc
+note 2a 0c 64 10 0 1de8
+rest 0c 1df4
+note 20 0c 64 10 0 1e00
+rest 0c 1e0c
+note 28 0c 64 10 0 1e18
+rest 0c 1e24
+note 25 0c 64 10 0 1e30
+rest 0c 1e3c
+note 28 0c 64 10 0 1e48
+rest 0c 1e54
+New Measure (1e60)
+note 20 0c 64 10 0 1e60
+rest 0c 1e6c
+note 27 0c 64 10 0 1e78
+rest 0c 1e84
+note 23 0c 64 10 0 1e90
+rest 0c 1e9c
+note 27 0c 64 10 0 1ea8
+rest 0c 1eb4
+note 20 0c 64 10 0 1ec0
+rest 0c 1ecc
+note 28 0c 64 10 0 1ed8
+rest 0c 1ee4
+note 25 0c 64 10 0 1ef0
+rest 0c 1efc
+note 28 0c 64 10 0 1f08
+rest 0c 1f14
+New Measure (1f20)
+note 20 0c 64 10 0 1f20
+rest 0c 1f2c
+note 2a 0c 64 10 0 1f38
+rest 0c 1f44
+note 27 0c 64 10 0 1f50
+rest 0c 1f5c
+note 2a 0c 64 10 0 1f68
+rest 0c 1f74
+note 20 0c 64 10 0 1f80
+rest 0c 1f8c
+note 28 0c 64 10 0 1f98
+rest 0c 1fa4
+note 25 0c 64 10 0 1fb0
+rest 0c 1fbc
+note 28 0c 64 10 0 1fc8
+rest 0c 1fd4
+New Measure (1fe0)
+note 1e 06 64 10 0 1fe0
+rest 12 1fe6
+note 27 06 64 10 0 1ff8
+rest 12 1ffe
+note 22 06 64 10 0 2010
+rest 12 2016
+note 27 06 64 10 0 2028
+rest 12 202e
+note 1c 06 64 10 0 2040
+rest 12 2046
+note 23 06 64 10 0 2058
+rest 12 205e
+note 20 06 64 10 0 2070
+rest 12 2076
+note 23 06 64 10 0 2088
+rest 12 208e
+New Measure (20a0)
+note 1b 06 64 10 0 20a0
+rest 12 20a6
+note 22 06 64 10 0 20b8
+rest 12 20be
+note 1e 06 64 10 0 20d0
+rest 12 20d6
+note 22 06 64 10 0 20e8
+rest 12 20ee
+note 19 06 64 10 0 2100
+rest 12 2106
+note 20 06 64 10 0 2118
+rest 12 211e
+note 1c 06 64 10 0 2130
+rest 12 2136
+note 20 06 64 10 0 2148
+rest 12 214e
+New Measure (2160)
+note 1b 06 64 10 0 2160
+rest 12 2166
+note 22 06 64 10 0 2178
+rest 12 217e
+note 1e 06 64 10 0 2190
+rest 12 2196
+note 22 06 64 10 0 21a8
+rest 12 21ae
+New Measure (21c0)
+note 20 0c 64 10 0 21c0
+rest 0c 21cc
+note 27 0c 64 10 0 21d8
+rest 0c 21e4
+note 23 0c 64 10 0 21f0
+rest 0c 21fc
+note 27 0c 64 10 0 2208
+rest 0c 2214
+note 20 0c 64 10 0 2220
+rest 0c 222c
+note 28 0c 64 10 0 2238
+rest 0c 2244
+note 25 0c 64 10 0 2250
+rest 0c 225c
+note 28 0c 64 10 0 2268
+rest 0c 2274
+New Measure (2280)
+note 20 0c 64 10 0 2280
+rest 0c 228c
+note 2a 0c 64 10 0 2298
+rest 0c 22a4
+note 27 0c 64 10 0 22b0
+rest 0c 22bc
+note 2a 0c 64 10 0 22c8
+rest 0c 22d4
+note 20 0c 64 10 0 22e0
+rest 0c 22ec
+note 28 0c 64 10 0 22f8
+rest 0c 2304
+note 25 0c 64 10 0 2310
+rest 0c 231c
+note 28 0c 64 10 0 2328
+rest 0c 2334
+New Measure (2340)
+rest c0 2340
+New Measure (2400)
+rest c0 2400
+New Measure (24c0)
+rest c0 24c0
+New Measure (2580)
+rest c0 2580
+New Measure (2640)
+rest c0 2640
+New Measure (2700)
+note 20 0c 64 10 0 2700
+rest 0c 270c
+note 27 0c 64 10 0 2718
+rest 0c 2724
+note 23 0c 64 10 0 2730
+rest 0c 273c
+note 27 0c 64 10 0 2748
+rest 0c 2754
+note 20 0c 64 10 0 2760
+rest 0c 276c
+note 28 0c 64 10 0 2778
+rest 0c 2784
+note 25 0c 64 10 0 2790
+rest 0c 279c
+note 28 0c 64 10 0 27a8
+rest 0c 27b4
+New Measure (27c0)
+note 20 0c 64 10 0 27c0
+rest 0c 27cc
+note 2a 0c 64 10 0 27d8
+rest 0c 27e4
+note 27 0c 64 10 0 27f0
+rest 0c 27fc
+note 2a 0c 64 10 0 2808
+rest 0c 2814
+note 20 0c 64 10 0 2820
+rest 0c 282c
+note 28 0c 64 10 0 2838
+rest 0c 2844
+note 25 0c 64 10 0 2850
+rest 0c 285c
+note 28 0c 64 10 0 2868
+rest 0c 2874
+New Measure (2880)
+note 20 0c 64 10 0 2880
+rest 0c 288c
+note 27 0c 64 10 0 2898
+rest 0c 28a4
+note 23 0c 64 10 0 28b0
+rest 0c 28bc
+note 27 0c 64 10 0 28c8
+rest 0c 28d4
+note 20 0c 64 10 0 28e0
+rest 0c 28ec
+note 28 0c 64 10 0 28f8
+rest 0c 2904
+note 25 0c 64 10 0 2910
+rest 0c 291c
+note 28 0c 64 10 0 2928
+rest 0c 2934
+New Measure (2940)
+note 20 0c 64 10 0 2940
+rest 0c 294c
+note 2a 0c 64 10 0 2958
+rest 0c 2964
+note 27 0c 64 10 0 2970
+rest 0c 297c
+note 2a 0c 64 10 0 2988
+rest 0c 2994
+note 20 0c 64 10 0 29a0
+rest 0c 29ac
+note 28 0c 64 10 0 29b8
+rest 0c 29c4
+note 25 0c 64 10 0 29d0
+rest 0c 29dc
+note 28 0c 64 10 0 29e8
+rest 0c 29f4
+New Measure (2a00)
+note 20 0c 64 10 0 2a00
+rest 0c 2a0c
+note 27 0c 64 10 0 2a18
+rest 0c 2a24
+note 23 0c 64 10 0 2a30
+rest 0c 2a3c
+note 27 0c 64 10 0 2a48
+rest 0c 2a54
+note 20 0c 64 10 0 2a60
+rest 0c 2a6c
+note 28 0c 64 10 0 2a78
+rest 0c 2a84
+note 25 0c 64 10 0 2a90
+rest 0c 2a9c
+note 28 0c 64 10 0 2aa8
+rest 0c 2ab4
+New Measure (2ac0)
+note 20 0c 64 10 0 2ac0
+rest 0c 2acc
+note 2a 0c 64 10 0 2ad8
+rest 0c 2ae4
+note 27 0c 64 10 0 2af0
+rest 0c 2afc
+note 2a 0c 64 10 0 2b08
+rest 0c 2b14
+note 20 0c 64 10 0 2b20
+rest 0c 2b2c
+note 28 0c 64 10 0 2b38
+rest 0c 2b44
+note 25 0c 64 10 0 2b50
+rest 0c 2b5c
+note 28 0c 64 10 0 2b68
+rest 0c 2b74
+New Measure (2b80)
+note 20 0c 64 10 0 2b80
+rest 0c 2b8c
+note 27 0c 64 10 0 2b98
+rest 0c 2ba4
+note 23 0c 64 10 0 2bb0
+rest 0c 2bbc
+note 27 0c 64 10 0 2bc8
+rest 0c 2bd4
+note 20 0c 64 10 0 2be0
+rest 0c 2bec
+note 28 0c 64 10 0 2bf8
+rest 0c 2c04
+note 25 0c 64 10 0 2c10
+rest 0c 2c1c
+note 28 0c 64 10 0 2c28
+rest 0c 2c34
+New Measure (2c40)
+note 20 0c 64 10 0 2c40
+rest 0c 2c4c
+note 2a 0c 64 10 0 2c58
+rest 0c 2c64
+note 27 0c 64 10 0 2c70
+rest 0c 2c7c
+note 2a 0c 64 10 0 2c88
+rest 0c 2c94
+note 20 0c 64 10 0 2ca0
+rest 0c 2cac
+note 28 0c 64 10 0 2cb8
+rest 0c 2cc4
+note 25 0c 64 10 0 2cd0
+rest 0c 2cdc
+note 28 0c 64 10 0 2ce8
+rest 0c 2cf4
+New Measure (2d00)
+note 1e 06 64 10 0 2d00
+rest 12 2d06
+note 27 06 64 10 0 2d18
+rest 12 2d1e
+note 22 06 64 10 0 2d30
+rest 12 2d36
+note 27 06 64 10 0 2d48
+rest 12 2d4e
+note 1c 06 64 10 0 2d60
+rest 12 2d66
+note 23 06 64 10 0 2d78
+rest 12 2d7e
+note 20 06 64 10 0 2d90
+rest 12 2d96
+note 23 06 64 10 0 2da8
+rest 12 2dae
+New Measure (2dc0)
+note 1b 06 64 10 0 2dc0
+rest 12 2dc6
+note 22 06 64 10 0 2dd8
+rest 12 2dde
+note 1e 06 64 10 0 2df0
+rest 12 2df6
+note 22 06 64 10 0 2e08
+rest 12 2e0e
+note 19 06 64 10 0 2e20
+rest 12 2e26
+note 20 06 64 10 0 2e38
+rest 12 2e3e
+note 1c 06 64 10 0 2e50
+rest 12 2e56
+note 20 06 64 10 0 2e68
+rest 12 2e6e
+New Measure (2e80)
+note 1b 06 64 10 0 2e80
+rest 12 2e86
+note 22 06 64 10 0 2e98
+rest 12 2e9e
+note 1e 06 64 10 0 2eb0
+rest 12 2eb6
+note 22 06 64 10 0 2ec8
+rest 12 2ece
+New Measure (2ee0)
+note 20 0c 64 10 0 2ee0
+rest 0c 2eec
+note 27 0c 64 10 0 2ef8
+rest 0c 2f04
+note 23 0c 64 10 0 2f10
+rest 0c 2f1c
+note 27 0c 64 10 0 2f28
+rest 0c 2f34
+note 20 0c 64 10 0 2f40
+rest 0c 2f4c
+note 28 0c 64 10 0 2f58
+rest 0c 2f64
+note 25 0c 64 10 0 2f70
+rest 0c 2f7c
+note 28 0c 64 10 0 2f88
+rest 0c 2f94
+New Measure (2fa0)
+note 20 0c 64 10 0 2fa0
+rest 0c 2fac
+note 2a 0c 64 10 0 2fb8
+rest 0c 2fc4
+note 27 0c 64 10 0 2fd0
+rest 0c 2fdc
+note 2a 0c 64 10 0 2fe8
+rest 0c 2ff4
+note 20 0c 64 10 0 3000
+rest 0c 300c
+note 28 0c 64 10 0 3018
+rest 0c 3024
+note 25 0c 64 10 0 3030
+rest 0c 303c
+note 28 0c 64 10 0 3048
+rest 0c 3054
+New Measure (3060)
+note 20 0c 64 10 0 3060
+rest 0c 306c
+note 27 0c 64 10 0 3078
+rest 0c 3084
+note 23 0c 64 10 0 3090
+rest 0c 309c
+note 27 0c 64 10 0 30a8
+rest 0c 30b4
+note 20 0c 64 10 0 30c0
+rest 0c 30cc
+note 28 0c 64 10 0 30d8
+rest 0c 30e4
+note 25 0c 64 10 0 30f0
+rest 0c 30fc
+note 28 0c 64 10 0 3108
+rest 0c 3114
+New Measure (3120)
+note 20 0c 64 10 0 3120
+rest 0c 312c
+note 2a 0c 64 10 0 3138
+rest 0c 3144
+note 27 0c 64 10 0 3150
+rest 0c 315c
+note 2a 0c 64 10 0 3168
+rest 0c 3174
+note 20 0c 64 10 0 3180
+rest 0c 318c
+note 28 0c 64 10 0 3198
+rest 0c 31a4
+note 25 0c 64 10 0 31b0
+rest 0c 31bc
+note 28 0c 64 10 0 31c8
+rest 0c 31d4
+New Measure (31e0)
+note 20 0c 64 10 0 31e0
+rest 0c 31ec
+note 27 0c 64 10 0 31f8
+rest 0c 3204
+note 23 0c 64 10 0 3210
+rest 0c 321c
+note 27 0c 64 10 0 3228
+rest 0c 3234
+note 20 0c 64 10 0 3240
+rest 0c 324c
+note 28 0c 64 10 0 3258
+rest 0c 3264
+note 25 0c 64 10 0 3270
+rest 0c 327c
+note 28 0c 64 10 0 3288
+rest 0c 3294
+New Measure (32a0)
+note 20 0c 64 10 0 32a0
+rest 0c 32ac
+note 2a 0c 64 10 0 32b8
+rest 0c 32c4
+note 27 0c 64 10 0 32d0
+rest 0c 32dc
+note 2a 0c 64 10 0 32e8
+rest 0c 32f4
+note 20 0c 64 10 0 3300
+rest 0c 330c
+note 28 0c 64 10 0 3318
+rest 0c 3324
+note 25 0c 64 10 0 3330
+rest 0c 333c
+note 28 0c 64 10 0 3348
+rest 0c 3354
+New Measure (3360)
+note 1e 06 64 10 0 3360
+rest 12 3366
+note 27 06 64 10 0 3378
+rest 12 337e
+note 22 06 64 10 0 3390
+rest 12 3396
+note 27 06 64 10 0 33a8
+rest 12 33ae
+note 1c 06 64 10 0 33c0
+rest 12 33c6
+note 23 06 64 10 0 33d8
+rest 12 33de
+note 20 06 64 10 0 33f0
+rest 12 33f6
+note 23 06 64 10 0 3408
+rest 12 340e
+New Measure (3420)
+note 1b 06 64 10 0 3420
+rest 12 3426
+note 22 06 64 10 0 3438
+rest 12 343e
+note 1e 06 64 10 0 3450
+rest 12 3456
+note 22 06 64 10 0 3468
+rest 12 346e
+note 19 06 64 10 0 3480
+rest 12 3486
+note 20 06 64 10 0 3498
+rest 12 349e
+note 1c 06 64 10 0 34b0
+rest 12 34b6
+note 20 06 64 10 0 34c8
+rest 12 34ce
+New Measure (34e0)
+note 1b 06 64 10 0 34e0
+rest 12 34e6
+note 22 06 64 10 0 34f8
+rest 12 34fe
+note 1e 06 64 10 0 3510
+rest 12 3516
+note 22 06 64 10 0 3528
+rest 12 352e
+New Measure (3540)
+note 20 0c 64 10 0 3540
+rest 0c 354c
+note 27 0c 64 10 0 3558
+rest 0c 3564
+note 23 0c 64 10 0 3570
+rest 0c 357c
+note 27 0c 64 10 0 3588
+rest 0c 3594
+note 20 0c 64 10 0 35a0
+rest 0c 35ac
+note 28 0c 64 10 0 35b8
+rest 0c 35c4
+note 25 0c 64 10 0 35d0
+rest 0c 35dc
+note 28 0c 64 10 0 35e8
+rest 0c 35f4
+New Measure (3600)
+note 20 0c 64 10 0 3600
+rest 0c 360c
+note 2a 0c 64 10 0 3618
+rest 0c 3624
+note 27 0c 64 10 0 3630
+rest 0c 363c
+note 2a 0c 64 10 0 3648
+rest 0c 3654
+note 20 0c 64 10 0 3660
+rest 0c 366c
+note 28 0c 64 10 0 3678
+rest 0c 3684
+note 25 0c 64 10 0 3690
+rest 0c 369c
+note 28 0c 64 10 0 36a8
+rest 0c 36b4
+New Measure (36c0)
+rest c0 36c0
+New Measure (3780)
+rest c0 3780
+New Measure (3840)
+rest c0 3840
+New Measure (3900)
+rest c0 3900
+New Measure (39c0)
+rest c0 39c0
+New Measure (3a80)
+note 20 0c 64 10 0 3a80
+rest 0c 3a8c
+note 27 0c 64 10 0 3a98
+rest 0c 3aa4
+note 23 0c 64 10 0 3ab0
+rest 0c 3abc
+note 27 0c 64 10 0 3ac8
+rest 0c 3ad4
+note 20 0c 64 10 0 3ae0
+rest 0c 3aec
+note 28 0c 64 10 0 3af8
+rest 0c 3b04
+note 25 0c 64 10 0 3b10
+rest 0c 3b1c
+note 28 0c 64 10 0 3b28
+rest 0c 3b34
+New Measure (3b40)
+note 20 0c 64 10 0 3b40
+rest 0c 3b4c
+note 2a 0c 64 10 0 3b58
+rest 0c 3b64
+note 27 0c 64 10 0 3b70
+rest 0c 3b7c
+note 2a 0c 64 10 0 3b88
+rest 0c 3b94
+note 20 0c 64 10 0 3ba0
+rest 0c 3bac
+note 28 0c 64 10 0 3bb8
+rest 0c 3bc4
+note 25 0c 64 10 0 3bd0
+rest 0c 3bdc
+note 28 0c 64 10 0 3be8
+rest 0c 3bf4
+New Measure (3c00)
+note 20 0c 64 10 0 3c00
+rest 0c 3c0c
+note 27 0c 64 10 0 3c18
+rest 0c 3c24
+note 23 0c 64 10 0 3c30
+rest 0c 3c3c
+note 27 0c 64 10 0 3c48
+rest 0c 3c54
+note 20 0c 64 10 0 3c60
+rest 0c 3c6c
+note 28 0c 64 10 0 3c78
+rest 0c 3c84
+note 25 0c 64 10 0 3c90
+rest 0c 3c9c
+note 28 0c 64 10 0 3ca8
+rest 0c 3cb4
+New Measure (3cc0)
+note 20 0c 64 10 0 3cc0
+rest 0c 3ccc
+note 2a 0c 64 10 0 3cd8
+rest 0c 3ce4
+note 27 0c 64 10 0 3cf0
+rest 0c 3cfc
+note 2a 0c 64 10 0 3d08
+rest 0c 3d14
+note 20 0c 64 10 0 3d20
+rest 0c 3d2c
+note 28 0c 64 10 0 3d38
+rest 0c 3d44
+note 25 0c 64 10 0 3d50
+rest 0c 3d5c
+note 28 0c 64 10 0 3d68
+rest 0c 3d74
+New Measure (3d80)
+note 20 0c 64 10 0 3d80
+rest 0c 3d8c
+note 27 0c 64 10 0 3d98
+rest 0c 3da4
+note 23 0c 64 10 0 3db0
+rest 0c 3dbc
+note 27 0c 64 10 0 3dc8
+rest 0c 3dd4
+note 20 0c 64 10 0 3de0
+rest 0c 3dec
+note 28 0c 64 10 0 3df8
+rest 0c 3e04
+note 25 0c 64 10 0 3e10
+rest 0c 3e1c
+note 28 0c 64 10 0 3e28
+rest 0c 3e34
+New Measure (3e40)
+note 20 0c 64 10 0 3e40
+rest 0c 3e4c
+note 2a 0c 64 10 0 3e58
+rest 0c 3e64
+note 27 0c 64 10 0 3e70
+rest 0c 3e7c
+note 2a 0c 64 10 0 3e88
+rest 0c 3e94
+note 20 0c 64 10 0 3ea0
+rest 0c 3eac
+note 28 0c 64 10 0 3eb8
+rest 0c 3ec4
+note 25 0c 64 10 0 3ed0
+rest 0c 3edc
+note 28 0c 64 10 0 3ee8
+rest 0c 3ef4
+New Measure (3f00)
+note 20 0c 64 10 0 3f00
+rest 0c 3f0c
+note 27 0c 64 10 0 3f18
+rest 0c 3f24
+note 23 0c 64 10 0 3f30
+rest 0c 3f3c
+note 27 0c 64 10 0 3f48
+rest 0c 3f54
+note 20 0c 64 10 0 3f60
+rest 0c 3f6c
+note 28 0c 64 10 0 3f78
+rest 0c 3f84
+note 25 0c 64 10 0 3f90
+rest 0c 3f9c
+note 28 0c 64 10 0 3fa8
+rest 0c 3fb4
+New Measure (3fc0)
+note 20 0c 64 10 0 3fc0
+rest 0c 3fcc
+note 2a 0c 64 10 0 3fd8
+rest 0c 3fe4
+note 27 0c 64 10 0 3ff0
+rest 0c 3ffc
+note 2a 0c 64 10 0 4008
+rest 0c 4014
+note 20 0c 64 10 0 4020
+rest 0c 402c
+note 28 0c 64 10 0 4038
+rest 0c 4044
+note 25 0c 64 10 0 4050
+rest 0c 405c
+note 28 0c 64 10 0 4068
+rest 0c 4074
+New Measure (4080)
+note 1e 06 64 10 0 4080
+rest 12 4086
+note 27 06 64 10 0 4098
+rest 12 409e
+note 22 06 64 10 0 40b0
+rest 12 40b6
+note 27 06 64 10 0 40c8
+rest 12 40ce
+note 1c 06 64 10 0 40e0
+rest 12 40e6
+note 23 06 64 10 0 40f8
+rest 12 40fe
+note 20 06 64 10 0 4110
+rest 12 4116
+note 23 06 64 10 0 4128
+rest 12 412e
+New Measure (4140)
+note 1b 06 64 10 0 4140
+rest 12 4146
+note 22 06 64 10 0 4158
+rest 12 415e
+note 1e 06 64 10 0 4170
+rest 12 4176
+note 22 06 64 10 0 4188
+rest 12 418e
+note 19 06 64 10 0 41a0
+rest 12 41a6
+note 20 06 64 10 0 41b8
+rest 12 41be
+note 1c 06 64 10 0 41d0
+rest 12 41d6
+note 20 06 64 10 0 41e8
+rest 12 41ee
+New Measure (4200)
+note 1b 06 64 10 0 4200
+rest 12 4206
+note 22 06 64 10 0 4218
+rest 12 421e
+note 1e 06 64 10 0 4230
+rest 12 4236
+note 22 06 64 10 0 4248
+rest 12 424e
+New Measure (4260)
+note 20 0c 64 10 0 4260
+rest 0c 426c
+note 27 0c 64 10 0 4278
+rest 0c 4284
+note 23 0c 64 10 0 4290
+rest 0c 429c
+note 27 0c 64 10 0 42a8
+rest 0c 42b4
+note 20 0c 64 10 0 42c0
+rest 0c 42cc
+note 28 0c 64 10 0 42d8
+rest 0c 42e4
+note 25 0c 64 10 0 42f0
+rest 0c 42fc
+note 28 0c 64 10 0 4308
+rest 0c 4314
+New Measure (4320)
+note 20 0c 64 10 0 4320
+rest 0c 432c
+note 2a 0c 64 10 0 4338
+rest 0c 4344
+note 27 0c 64 10 0 4350
+rest 0c 435c
+note 2a 0c 64 10 0 4368
+rest 0c 4374
+note 20 0c 64 10 0 4380
+rest 0c 438c
+note 28 0c 64 10 0 4398
+rest 0c 43a4
+note 25 0c 64 10 0 43b0
+rest 0c 43bc
+note 28 0c 64 10 0 43c8
+rest 0c 43d4
+New Measure (43e0)
+note 20 0c 64 10 0 43e0
+rest 0c 43ec
+note 27 0c 64 10 0 43f8
+rest 0c 4404
+note 23 0c 64 10 0 4410
+rest 0c 441c
+note 27 0c 64 10 0 4428
+rest 0c 4434
+note 20 0c 64 10 0 4440
+rest 0c 444c
+note 28 0c 64 10 0 4458
+rest 0c 4464
+note 25 0c 64 10 0 4470
+rest 0c 447c
+note 28 0c 64 10 0 4488
+rest 0c 4494
+New Measure (44a0)
+note 20 0c 64 10 0 44a0
+rest 0c 44ac
+note 2a 0c 64 10 0 44b8
+rest 0c 44c4
+note 27 0c 64 10 0 44d0
+rest 0c 44dc
+note 2a 0c 64 10 0 44e8
+rest 0c 44f4
+note 20 0c 64 10 0 4500
+rest 0c 450c
+note 28 0c 64 10 0 4518
+rest 0c 4524
+note 25 0c 64 10 0 4530
+rest 0c 453c
+note 28 0c 64 10 0 4548
+rest 0c 4554
+New Measure (4560)
+note 20 0c 64 10 0 4560
+rest 0c 456c
+note 27 0c 64 10 0 4578
+rest 0c 4584
+note 23 0c 64 10 0 4590
+rest 0c 459c
+note 27 0c 64 10 0 45a8
+rest 0c 45b4
+note 20 0c 64 10 0 45c0
+rest 0c 45cc
+note 28 0c 64 10 0 45d8
+rest 0c 45e4
+note 25 0c 64 10 0 45f0
+rest 0c 45fc
+note 28 0c 64 10 0 4608
+rest 0c 4614
+New Measure (4620)
+note 20 0c 64 10 0 4620
+rest 0c 462c
+note 2a 0c 64 10 0 4638
+rest 0c 4644
+note 27 0c 64 10 0 4650
+rest 0c 465c
+note 2a 0c 64 10 0 4668
+rest 0c 4674
+note 20 0c 64 10 0 4680
+rest 0c 468c
+note 28 0c 64 10 0 4698
+rest 0c 46a4
+note 25 0c 64 10 0 46b0
+rest 0c 46bc
+note 28 0c 64 10 0 46c8
+rest 0c 46d4
+New Measure (46e0)
+note 1e 06 64 10 0 46e0
+rest 12 46e6
+note 27 06 64 10 0 46f8
+rest 12 46fe
+note 22 06 64 10 0 4710
+rest 12 4716
+note 27 06 64 10 0 4728
+rest 12 472e
+note 1c 06 64 10 0 4740
+rest 12 4746
+note 23 06 64 10 0 4758
+rest 12 475e
+note 20 06 64 10 0 4770
+rest 12 4776
+note 23 06 64 10 0 4788
+rest 12 478e
+New Measure (47a0)
+note 1b 06 64 10 0 47a0
+rest 12 47a6
+note 22 06 64 10 0 47b8
+rest 12 47be
+note 1e 06 64 10 0 47d0
+rest 12 47d6
+note 22 06 64 10 0 47e8
+rest 12 47ee
+note 19 06 64 10 0 4800
+rest 12 4806
+note 20 06 64 10 0 4818
+rest 12 481e
+note 1c 06 64 10 0 4830
+rest 12 4836
+note 20 06 64 10 0 4848
+rest 12 484e
+New Measure (4860)
+note 1b 06 64 10 0 4860
+rest 12 4866
+note 22 06 64 10 0 4878
+rest 12 487e
+note 1e 06 64 10 0 4890
+rest 12 4896
+note 22 06 64 10 0 48a8
+rest 12 48ae
+New Measure (48c0)
+note 20 0c 64 10 0 48c0
+rest 0c 48cc
+note 27 0c 64 10 0 48d8
+rest 0c 48e4
+note 23 0c 64 10 0 48f0
+rest 0c 48fc
+note 27 0c 64 10 0 4908
+rest 0c 4914
+note 20 0c 64 10 0 4920
+rest 0c 492c
+note 28 0c 64 10 0 4938
+rest 0c 4944
+note 25 0c 64 10 0 4950
+rest 0c 495c
+note 28 0c 64 10 0 4968
+rest 0c 4974
+New Measure (4980)
+note 20 0c 64 10 0 4980
+rest 0c 498c
+note 2a 0c 64 10 0 4998
+rest 0c 49a4
+note 27 0c 64 10 0 49b0
+rest 0c 49bc
+note 2a 0c 64 10 0 49c8
+rest 0c 49d4
+note 20 0c 64 10 0 49e0
+rest 0c 49ec
+note 28 0c 64 10 0 49f8
+rest 0c 4a04
+note 25 0c 64 10 0 4a10
+rest 0c 4a1c
+note 28 0c 64 10 0 4a28
+rest 0c 4a34
+TotalTimestamp 4a40
+Part P4
+Partname Oboes               
+New Measure (0)
+rest c0 0
+New Measure (c0)
+rest c0 c0
+New Measure (180)
+rest c0 180
+New Measure (240)
+rest c0 240
+New Measure (300)
+rest c0 300
+New Measure (3c0)
+rest c0 3c0
+New Measure (480)
+rest c0 480
+New Measure (540)
+rest c0 540
+New Measure (600)
+rest c0 600
+New Measure (6c0)
+rest c0 6c0
+New Measure (780)
+rest 60 780
+New Measure (7e0)
+rest c0 7e0
+New Measure (8a0)
+rest c0 8a0
+New Measure (960)
+rest c0 960
+New Measure (a20)
+rest c0 a20
+New Measure (ae0)
+rest c0 ae0
+New Measure (ba0)
+rest c0 ba0
+New Measure (c60)
+rest c0 c60
+New Measure (d20)
+rest c0 d20
+New Measure (de0)
+rest 60 de0
+New Measure (e40)
+rest c0 e40
+New Measure (f00)
+rest c0 f00
+New Measure (fc0)
+note 2a 18 64 10 0 fc0
+chord 1 2e 18 64 10 0 fc0
+note 2c 18 64 10 0 fd8
+chord 1 2f 18 64 10 0 fd8
+note 2e 18 64 10 0 ff0
+chord 1 31 18 64 10 0 ff0
+note 2f 18 64 10 0 1008
+chord 1 33 18 64 10 0 1008
+note 2e 18 64 10 0 1020
+chord 1 31 18 64 10 0 1020
+note 2c 18 64 10 0 1038
+chord 1 2f 18 64 10 0 1038
+note 2a 18 64 10 0 1050
+chord 1 2e 18 64 10 0 1050
+note 28 18 64 10 1 1068
+chord 1 2c 18 64 10 1 1068
+New Measure (1080)
+note 28 18 64 10 2 1080
+chord 1 2c 18 64 10 2 1080
+note 2a 18 64 10 0 1098
+chord 1 2e 18 64 10 0 1098
+note 2c 18 64 10 0 10b0
+chord 1 2f 18 64 10 0 10b0
+note 2e 18 64 10 0 10c8
+chord 1 31 18 64 10 0 10c8
+note 2c 18 64 10 0 10e0
+chord 1 2f 18 64 10 0 10e0
+note 2a 18 64 10 0 10f8
+chord 1 2e 18 64 10 0 10f8
+note 28 18 64 10 0 1110
+chord 1 2c 18 64 10 0 1110
+note 2a 18 64 10 1 1128
+chord 1 2e 18 64 10 1 1128
+New Measure (1140)
+note 2a 18 64 10 2 1140
+chord 1 2e 18 64 10 2 1140
+note 2c 18 64 10 0 1158
+chord 1 2f 18 64 10 0 1158
+note 2e 18 64 10 0 1170
+chord 1 31 18 64 10 0 1170
+note 2f 18 64 10 0 1188
+chord 1 33 18 64 10 0 1188
+note 2e 18 64 10 0 11a0
+chord 1 31 18 64 10 0 11a0
+note 2c 18 64 10 0 11b8
+chord 1 2f 18 64 10 0 11b8
+note 2a 18 64 10 0 11d0
+chord 1 2e 18 64 10 0 11d0
+note 28 18 64 10 1 11e8
+chord 1 2c 18 64 10 1 11e8
+New Measure (1200)
+note 28 18 64 10 2 1200
+chord 1 2c 18 64 10 2 1200
+note 2a 18 64 10 0 1218
+chord 1 2e 18 64 10 0 1218
+note 2c 18 64 10 0 1230
+chord 1 2f 18 64 10 0 1230
+note 2e 18 64 10 0 1248
+chord 1 31 18 64 10 0 1248
+note 2c 18 64 10 0 1260
+chord 1 2f 18 64 10 0 1260
+note 2a 18 64 10 0 1278
+chord 1 2e 18 64 10 0 1278
+note 28 18 64 10 0 1290
+chord 1 2c 18 64 10 0 1290
+note 27 18 64 10 0 12a8
+chord 1 2a 18 64 10 0 12a8
+New Measure (12c0)
+note 25 60 64 10 0 12c0
+chord 1 28 60 64 10 0 12c0
+note 22 30 64 10 0 1320
+chord 1 2a 30 64 10 0 1320
+note 23 0c 64 10 0 1350
+chord 1 25 0c 64 10 0 1350
+chord 2 2c 0c 64 10 0 1350
+chord 3 2e 0c 64 10 0 1350
+note 27 0c 64 10 0 135c
+chord 1 28 0c 64 10 0 135c
+chord 2 2f 0c 64 10 0 135c
+chord 3 31 0c 64 10 0 135c
+note 2a 0c 64 10 0 1368
+chord 1 2c 0c 64 10 0 1368
+chord 2 33 0c 64 10 0 1368
+chord 3 34 0c 64 10 0 1368
+note 2e 0c 64 10 0 1374
+chord 1 36 0c 64 10 0 1374
+New Measure (1380)
+note 38 c0 64 10 1 1380
+New Measure (1440)
+note 38 c0 64 10 1 1440
+New Measure (1500)
+note 38 c0 64 10 1 1500
+New Measure (15c0)
+note 38 c0 64 10 2 15c0
+New Measure (1680)
+rest c0 1680
+New Measure (1740)
+rest c0 1740
+New Measure (1800)
+rest c0 1800
+New Measure (18c0)
+rest c0 18c0
+New Measure (1980)
+rest c0 1980
+New Measure (1a40)
+rest c0 1a40
+New Measure (1b00)
+rest 60 1b00
+New Measure (1b60)
+rest c0 1b60
+New Measure (1c20)
+rest c0 1c20
+New Measure (1ce0)
+rest c0 1ce0
+New Measure (1da0)
+rest c0 1da0
+New Measure (1e60)
+rest c0 1e60
+New Measure (1f20)
+rest c0 1f20
+New Measure (1fe0)
+rest c0 1fe0
+New Measure (20a0)
+rest c0 20a0
+New Measure (2160)
+rest 60 2160
+New Measure (21c0)
+rest c0 21c0
+New Measure (2280)
+rest c0 2280
+New Measure (2340)
+note 2a 18 64 10 0 2340
+chord 1 2e 18 64 10 0 2340
+note 2c 18 64 10 0 2358
+chord 1 2f 18 64 10 0 2358
+note 2e 18 64 10 0 2370
+chord 1 31 18 64 10 0 2370
+note 2f 18 64 10 0 2388
+chord 1 33 18 64 10 0 2388
+note 2e 18 64 10 0 23a0
+chord 1 31 18 64 10 0 23a0
+note 2c 18 64 10 0 23b8
+chord 1 2f 18 64 10 0 23b8
+note 2a 18 64 10 0 23d0
+chord 1 2e 18 64 10 0 23d0
+note 28 18 64 10 1 23e8
+chord 1 2c 18 64 10 1 23e8
+New Measure (2400)
+note 28 18 64 10 2 2400
+chord 1 2c 18 64 10 2 2400
+note 2a 18 64 10 0 2418
+chord 1 2e 18 64 10 0 2418
+note 2c 18 64 10 0 2430
+chord 1 2f 18 64 10 0 2430
+note 2e 18 64 10 0 2448
+chord 1 31 18 64 10 0 2448
+note 2c 18 64 10 0 2460
+chord 1 2f 18 64 10 0 2460
+note 2a 18 64 10 0 2478
+chord 1 2e 18 64 10 0 2478
+note 28 18 64 10 0 2490
+chord 1 2c 18 64 10 0 2490
+note 2a 18 64 10 1 24a8
+chord 1 2e 18 64 10 1 24a8
+New Measure (24c0)
+note 2a 18 64 10 2 24c0
+chord 1 2e 18 64 10 2 24c0
+note 2c 18 64 10 0 24d8
+chord 1 2f 18 64 10 0 24d8
+note 2e 18 64 10 0 24f0
+chord 1 31 18 64 10 0 24f0
+note 2f 18 64 10 0 2508
+chord 1 33 18 64 10 0 2508
+note 2e 18 64 10 0 2520
+chord 1 31 18 64 10 0 2520
+note 2c 18 64 10 0 2538
+chord 1 2f 18 64 10 0 2538
+note 2a 18 64 10 0 2550
+chord 1 2e 18 64 10 0 2550
+note 28 18 64 10 1 2568
+chord 1 2c 18 64 10 1 2568
+New Measure (2580)
+note 28 18 64 10 2 2580
+chord 1 2c 18 64 10 2 2580
+note 2a 18 64 10 0 2598
+chord 1 2e 18 64 10 0 2598
+note 2c 18 64 10 0 25b0
+chord 1 2f 18 64 10 0 25b0
+note 2e 18 64 10 0 25c8
+chord 1 31 18 64 10 0 25c8
+note 2c 18 64 10 0 25e0
+chord 1 2f 18 64 10 0 25e0
+note 2a 18 64 10 0 25f8
+chord 1 2e 18 64 10 0 25f8
+note 28 18 64 10 0 2610
+chord 1 2c 18 64 10 0 2610
+note 27 18 64 10 0 2628
+chord 1 2a 18 64 10 0 2628
+New Measure (2640)
+note 25 60 64 10 0 2640
+chord 1 28 60 64 10 0 2640
+note 22 30 64 10 0 26a0
+chord 1 2a 30 64 10 0 26a0
+note 23 0c 64 10 0 26d0
+chord 1 25 0c 64 10 0 26d0
+chord 2 2c 0c 64 10 0 26d0
+chord 3 2e 0c 64 10 0 26d0
+note 27 0c 64 10 0 26dc
+chord 1 28 0c 64 10 0 26dc
+chord 2 2f 0c 64 10 0 26dc
+chord 3 31 0c 64 10 0 26dc
+note 2a 0c 64 10 0 26e8
+chord 1 2c 0c 64 10 0 26e8
+chord 2 33 0c 64 10 0 26e8
+chord 3 34 0c 64 10 0 26e8
+note 2e 0c 64 10 0 26f4
+chord 1 36 0c 64 10 0 26f4
+New Measure (2700)
+note 38 c0 64 10 1 2700
+New Measure (27c0)
+note 38 c0 64 10 1 27c0
+New Measure (2880)
+note 38 c0 64 10 1 2880
+New Measure (2940)
+note 38 c0 64 10 2 2940
+New Measure (2a00)
+rest c0 2a00
+New Measure (2ac0)
+rest c0 2ac0
+New Measure (2b80)
+rest c0 2b80
+New Measure (2c40)
+rest c0 2c40
+New Measure (2d00)
+rest c0 2d00
+New Measure (2dc0)
+rest c0 2dc0
+New Measure (2e80)
+rest 60 2e80
+New Measure (2ee0)
+rest c0 2ee0
+New Measure (2fa0)
+rest c0 2fa0
+New Measure (3060)
+rest c0 3060
+New Measure (3120)
+rest c0 3120
+New Measure (31e0)
+rest c0 31e0
+New Measure (32a0)
+rest c0 32a0
+New Measure (3360)
+rest c0 3360
+New Measure (3420)
+rest c0 3420
+New Measure (34e0)
+rest 60 34e0
+New Measure (3540)
+rest c0 3540
+New Measure (3600)
+rest c0 3600
+New Measure (36c0)
+note 2a 18 64 10 0 36c0
+chord 1 2e 18 64 10 0 36c0
+note 2c 18 64 10 0 36d8
+chord 1 2f 18 64 10 0 36d8
+note 2e 18 64 10 0 36f0
+chord 1 31 18 64 10 0 36f0
+note 2f 18 64 10 0 3708
+chord 1 33 18 64 10 0 3708
+note 2e 18 64 10 0 3720
+chord 1 31 18 64 10 0 3720
+note 2c 18 64 10 0 3738
+chord 1 2f 18 64 10 0 3738
+note 2a 18 64 10 0 3750
+chord 1 2e 18 64 10 0 3750
+note 28 18 64 10 1 3768
+chord 1 2c 18 64 10 1 3768
+New Measure (3780)
+note 28 18 64 10 2 3780
+chord 1 2c 18 64 10 2 3780
+note 2a 18 64 10 0 3798
+chord 1 2e 18 64 10 0 3798
+note 2c 18 64 10 0 37b0
+chord 1 2f 18 64 10 0 37b0
+note 2e 18 64 10 0 37c8
+chord 1 31 18 64 10 0 37c8
+note 2c 18 64 10 0 37e0
+chord 1 2f 18 64 10 0 37e0
+note 2a 18 64 10 0 37f8
+chord 1 2e 18 64 10 0 37f8
+note 28 18 64 10 0 3810
+chord 1 2c 18 64 10 0 3810
+note 2a 18 64 10 1 3828
+chord 1 2e 18 64 10 1 3828
+New Measure (3840)
+note 2a 18 64 10 2 3840
+chord 1 2e 18 64 10 2 3840
+note 2c 18 64 10 0 3858
+chord 1 2f 18 64 10 0 3858
+note 2e 18 64 10 0 3870
+chord 1 31 18 64 10 0 3870
+note 2f 18 64 10 0 3888
+chord 1 33 18 64 10 0 3888
+note 2e 18 64 10 0 38a0
+chord 1 31 18 64 10 0 38a0
+note 2c 18 64 10 0 38b8
+chord 1 2f 18 64 10 0 38b8
+note 2a 18 64 10 0 38d0
+chord 1 2e 18 64 10 0 38d0
+note 28 18 64 10 1 38e8
+chord 1 2c 18 64 10 1 38e8
+New Measure (3900)
+note 28 18 64 10 2 3900
+chord 1 2c 18 64 10 2 3900
+note 2a 18 64 10 0 3918
+chord 1 2e 18 64 10 0 3918
+note 2c 18 64 10 0 3930
+chord 1 2f 18 64 10 0 3930
+note 2e 18 64 10 0 3948
+chord 1 31 18 64 10 0 3948
+note 2c 18 64 10 0 3960
+chord 1 2f 18 64 10 0 3960
+note 2a 18 64 10 0 3978
+chord 1 2e 18 64 10 0 3978
+note 28 18 64 10 0 3990
+chord 1 2c 18 64 10 0 3990
+note 27 18 64 10 0 39a8
+chord 1 2a 18 64 10 0 39a8
+New Measure (39c0)
+note 25 60 64 10 0 39c0
+chord 1 28 60 64 10 0 39c0
+note 22 30 64 10 0 3a20
+chord 1 2a 30 64 10 0 3a20
+note 23 0c 64 10 0 3a50
+chord 1 25 0c 64 10 0 3a50
+chord 2 2c 0c 64 10 0 3a50
+chord 3 2e 0c 64 10 0 3a50
+note 27 0c 64 10 0 3a5c
+chord 1 28 0c 64 10 0 3a5c
+chord 2 2f 0c 64 10 0 3a5c
+chord 3 31 0c 64 10 0 3a5c
+note 2a 0c 64 10 0 3a68
+chord 1 2c 0c 64 10 0 3a68
+chord 2 33 0c 64 10 0 3a68
+chord 3 34 0c 64 10 0 3a68
+note 2e 0c 64 10 0 3a74
+chord 1 36 0c 64 10 0 3a74
+New Measure (3a80)
+note 38 300 64 10 0 3a80
+New Measure (3b40)
+New Measure (3c00)
+New Measure (3cc0)
+New Measure (3d80)
+New Measure (3e40)
+New Measure (3f00)
+New Measure (3fc0)
+New Measure (4080)
+New Measure (4140)
+New Measure (4200)
+New Measure (4260)
+New Measure (4320)
+New Measure (43e0)
+New Measure (44a0)
+New Measure (4560)
+New Measure (4620)
+New Measure (46e0)
+New Measure (47a0)
+New Measure (4860)
+New Measure (48c0)
+New Measure (4980)
+TotalTimestamp 3d80
+Part P5
+Partname Voices              
+New Measure (0)
+note 23 60 64 10 0 0
+chord 1 27 60 64 10 0 0
+note 25 60 64 10 0 60
+chord 1 28 60 64 10 0 60
+New Measure (c0)
+note 27 60 64 10 0 c0
+chord 1 2a 60 64 10 0 c0
+note 25 60 64 10 0 120
+chord 1 28 60 64 10 0 120
+New Measure (180)
+note 23 60 64 10 0 180
+chord 1 27 60 64 10 0 180
+note 25 60 64 10 0 1e0
+chord 1 28 60 64 10 0 1e0
+New Measure (240)
+note 27 60 64 10 0 240
+chord 1 2a 60 64 10 0 240
+note 25 60 64 10 0 2a0
+chord 1 28 60 64 10 0 2a0
+New Measure (300)
+note 23 60 64 10 0 300
+chord 1 27 60 64 10 0 300
+note 25 60 64 10 0 360
+chord 1 28 60 64 10 0 360
+New Measure (3c0)
+note 27 60 64 10 0 3c0
+chord 1 2a 60 64 10 0 3c0
+note 25 60 64 10 0 420
+chord 1 28 60 64 10 0 420
+New Measure (480)
+note 23 60 64 10 0 480
+chord 1 27 60 64 10 0 480
+note 25 60 64 10 0 4e0
+chord 1 28 60 64 10 0 4e0
+New Measure (540)
+note 27 60 64 10 0 540
+chord 1 2a 60 64 10 0 540
+note 25 60 64 10 0 5a0
+chord 1 28 60 64 10 0 5a0
+New Measure (600)
+note 27 60 64 10 0 600
+chord 1 2a 60 64 10 0 600
+note 28 60 64 10 0 660
+chord 1 2c 60 64 10 0 660
+New Measure (6c0)
+note 27 60 64 10 0 6c0
+chord 1 2a 60 64 10 0 6c0
+note 25 60 64 10 0 720
+chord 1 28 60 64 10 0 720
+New Measure (780)
+note 27 60 64 10 0 780
+chord 1 2a 60 64 10 0 780
+New Measure (7e0)
+note 23 60 64 10 0 7e0
+chord 1 27 60 64 10 0 7e0
+note 25 60 64 10 0 840
+chord 1 28 60 64 10 0 840
+New Measure (8a0)
+note 27 60 64 10 0 8a0
+chord 1 2a 60 64 10 0 8a0
+note 25 60 64 10 0 900
+chord 1 28 60 64 10 0 900
+New Measure (960)
+note 23 60 64 10 0 960
+chord 1 27 60 64 10 0 960
+note 25 60 64 10 0 9c0
+chord 1 28 60 64 10 0 9c0
+New Measure (a20)
+note 27 60 64 10 0 a20
+chord 1 2a 60 64 10 0 a20
+note 25 60 64 10 0 a80
+chord 1 28 60 64 10 0 a80
+New Measure (ae0)
+note 23 60 64 10 0 ae0
+chord 1 27 60 64 10 0 ae0
+note 25 60 64 10 0 b40
+chord 1 28 60 64 10 0 b40
+New Measure (ba0)
+note 27 60 64 10 0 ba0
+chord 1 2a 60 64 10 0 ba0
+note 25 60 64 10 0 c00
+chord 1 28 60 64 10 0 c00
+New Measure (c60)
+note 27 60 64 10 0 c60
+chord 1 2a 60 64 10 0 c60
+note 29 60 64 10 0 cc0
+chord 1 2c 60 64 10 0 cc0
+New Measure (d20)
+note 27 60 64 10 0 d20
+chord 1 2a 60 64 10 0 d20
+note 25 60 64 10 0 d80
+chord 1 28 60 64 10 0 d80
+New Measure (de0)
+note 27 60 64 10 0 de0
+chord 1 2a 60 64 10 0 de0
+New Measure (e40)
+note 23 60 64 10 0 e40
+chord 1 27 60 64 10 0 e40
+note 25 60 64 10 0 ea0
+chord 1 28 60 64 10 0 ea0
+New Measure (f00)
+note 27 60 64 10 0 f00
+chord 1 2a 60 64 10 0 f00
+note 25 60 64 10 0 f60
+chord 1 28 60 64 10 0 f60
+New Measure (fc0)
+rest c0 fc0
+New Measure (1080)
+rest c0 1080
+New Measure (1140)
+rest c0 1140
+New Measure (1200)
+rest c0 1200
+New Measure (12c0)
+rest c0 12c0
+New Measure (1380)
+note 23 60 64 10 0 1380
+chord 1 27 60 64 10 0 1380
+note 25 60 64 10 0 13e0
+chord 1 28 60 64 10 0 13e0
+New Measure (1440)
+note 27 60 64 10 0 1440
+chord 1 2a 60 64 10 0 1440
+note 25 60 64 10 0 14a0
+chord 1 28 60 64 10 0 14a0
+New Measure (1500)
+note 23 60 64 10 0 1500
+chord 1 27 60 64 10 0 1500
+note 25 60 64 10 0 1560
+chord 1 28 60 64 10 0 1560
+New Measure (15c0)
+note 27 60 64 10 0 15c0
+chord 1 2a 60 64 10 0 15c0
+note 25 60 64 10 0 1620
+chord 1 28 60 64 10 0 1620
+New Measure (1680)
+note 23 60 64 10 0 1680
+chord 1 27 60 64 10 0 1680
+note 25 60 64 10 0 16e0
+chord 1 28 60 64 10 0 16e0
+New Measure (1740)
+note 27 60 64 10 0 1740
+chord 1 2a 60 64 10 0 1740
+note 25 60 64 10 0 17a0
+chord 1 28 60 64 10 0 17a0
+New Measure (1800)
+note 23 60 64 10 0 1800
+chord 1 27 60 64 10 0 1800
+note 25 60 64 10 0 1860
+chord 1 28 60 64 10 0 1860
+New Measure (18c0)
+note 27 60 64 10 0 18c0
+chord 1 2a 60 64 10 0 18c0
+note 25 60 64 10 0 1920
+chord 1 28 60 64 10 0 1920
+New Measure (1980)
+note 27 60 64 10 0 1980
+chord 1 2a 60 64 10 0 1980
+note 28 60 64 10 0 19e0
+chord 1 2c 60 64 10 0 19e0
+New Measure (1a40)
+note 27 60 64 10 0 1a40
+chord 1 2a 60 64 10 0 1a40
+note 25 60 64 10 0 1aa0
+chord 1 28 60 64 10 0 1aa0
+New Measure (1b00)
+note 27 60 64 10 0 1b00
+chord 1 2a 60 64 10 0 1b00
+New Measure (1b60)
+note 23 60 64 10 0 1b60
+chord 1 27 60 64 10 0 1b60
+note 25 60 64 10 0 1bc0
+chord 1 28 60 64 10 0 1bc0
+New Measure (1c20)
+note 27 60 64 10 0 1c20
+chord 1 2a 60 64 10 0 1c20
+note 25 60 64 10 0 1c80
+chord 1 28 60 64 10 0 1c80
+New Measure (1ce0)
+note 23 60 64 10 0 1ce0
+chord 1 27 60 64 10 0 1ce0
+note 25 60 64 10 0 1d40
+chord 1 28 60 64 10 0 1d40
+New Measure (1da0)
+note 27 60 64 10 0 1da0
+chord 1 2a 60 64 10 0 1da0
+note 25 60 64 10 0 1e00
+chord 1 28 60 64 10 0 1e00
+New Measure (1e60)
+note 23 60 64 10 0 1e60
+chord 1 27 60 64 10 0 1e60
+note 25 60 64 10 0 1ec0
+chord 1 28 60 64 10 0 1ec0
+New Measure (1f20)
+note 27 60 64 10 0 1f20
+chord 1 2a 60 64 10 0 1f20
+note 25 60 64 10 0 1f80
+chord 1 28 60 64 10 0 1f80
+New Measure (1fe0)
+note 27 60 64 10 0 1fe0
+chord 1 2a 60 64 10 0 1fe0
+note 28 60 64 10 0 2040
+chord 1 2c 60 64 10 0 2040
+New Measure (20a0)
+note 27 60 64 10 0 20a0
+chord 1 2a 60 64 10 0 20a0
+note 25 60 64 10 0 2100
+chord 1 28 60 64 10 0 2100
+New Measure (2160)
+note 27 60 64 10 0 2160
+chord 1 2a 60 64 10 0 2160
+New Measure (21c0)
+note 23 60 64 10 0 21c0
+chord 1 27 60 64 10 0 21c0
+note 25 60 64 10 0 2220
+chord 1 28 60 64 10 0 2220
+New Measure (2280)
+note 27 60 64 10 0 2280
+chord 1 2a 60 64 10 0 2280
+note 25 60 64 10 0 22e0
+chord 1 28 60 64 10 0 22e0
+New Measure (2340)
+rest c0 2340
+New Measure (2400)
+rest c0 2400
+New Measure (24c0)
+rest c0 24c0
+New Measure (2580)
+rest c0 2580
+New Measure (2640)
+rest c0 2640
+New Measure (2700)
+note 23 60 64 10 0 2700
+chord 1 27 60 64 10 0 2700
+note 25 60 64 10 0 2760
+chord 1 28 60 64 10 0 2760
+New Measure (27c0)
+note 27 60 64 10 0 27c0
+chord 1 2a 60 64 10 0 27c0
+note 25 60 64 10 0 2820
+chord 1 28 60 64 10 0 2820
+New Measure (2880)
+note 23 60 64 10 0 2880
+chord 1 27 60 64 10 0 2880
+note 25 60 64 10 0 28e0
+chord 1 28 60 64 10 0 28e0
+New Measure (2940)
+note 27 60 64 10 0 2940
+chord 1 2a 60 64 10 0 2940
+note 25 60 64 10 0 29a0
+chord 1 28 60 64 10 0 29a0
+New Measure (2a00)
+note 23 60 64 10 0 2a00
+chord 1 27 60 64 10 0 2a00
+note 25 60 64 10 0 2a60
+chord 1 28 60 64 10 0 2a60
+New Measure (2ac0)
+note 27 60 64 10 0 2ac0
+chord 1 2a 60 64 10 0 2ac0
+note 25 60 64 10 0 2b20
+chord 1 28 60 64 10 0 2b20
+New Measure (2b80)
+note 23 60 64 10 0 2b80
+chord 1 27 60 64 10 0 2b80
+note 25 60 64 10 0 2be0
+chord 1 28 60 64 10 0 2be0
+New Measure (2c40)
+note 27 60 64 10 0 2c40
+chord 1 2a 60 64 10 0 2c40
+note 25 60 64 10 0 2ca0
+chord 1 28 60 64 10 0 2ca0
+New Measure (2d00)
+note 27 60 64 10 0 2d00
+chord 1 2a 60 64 10 0 2d00
+note 28 60 64 10 0 2d60
+chord 1 2c 60 64 10 0 2d60
+New Measure (2dc0)
+note 27 60 64 10 0 2dc0
+chord 1 2a 60 64 10 0 2dc0
+note 25 60 64 10 0 2e20
+chord 1 28 60 64 10 0 2e20
+New Measure (2e80)
+note 27 60 64 10 0 2e80
+chord 1 2a 60 64 10 0 2e80
+New Measure (2ee0)
+note 23 60 64 10 0 2ee0
+chord 1 27 60 64 10 0 2ee0
+note 25 60 64 10 0 2f40
+chord 1 28 60 64 10 0 2f40
+New Measure (2fa0)
+note 27 60 64 10 0 2fa0
+chord 1 2a 60 64 10 0 2fa0
+note 25 60 64 10 0 3000
+chord 1 28 60 64 10 0 3000
+New Measure (3060)
+note 23 60 64 10 0 3060
+chord 1 27 60 64 10 0 3060
+note 25 60 64 10 0 30c0
+chord 1 28 60 64 10 0 30c0
+New Measure (3120)
+note 27 60 64 10 0 3120
+chord 1 2a 60 64 10 0 3120
+note 25 60 64 10 0 3180
+chord 1 28 60 64 10 0 3180
+New Measure (31e0)
+note 23 60 64 10 0 31e0
+chord 1 27 60 64 10 0 31e0
+note 25 60 64 10 0 3240
+chord 1 28 60 64 10 0 3240
+New Measure (32a0)
+note 27 60 64 10 0 32a0
+chord 1 2a 60 64 10 0 32a0
+note 25 60 64 10 0 3300
+chord 1 28 60 64 10 0 3300
+New Measure (3360)
+note 27 60 64 10 0 3360
+chord 1 2a 60 64 10 0 3360
+note 28 60 64 10 0 33c0
+chord 1 2c 60 64 10 0 33c0
+New Measure (3420)
+note 27 60 64 10 0 3420
+chord 1 2a 60 64 10 0 3420
+note 25 60 64 10 0 3480
+chord 1 28 60 64 10 0 3480
+New Measure (34e0)
+note 27 60 64 10 0 34e0
+chord 1 2a 60 64 10 0 34e0
+New Measure (3540)
+note 23 60 64 10 0 3540
+chord 1 27 60 64 10 0 3540
+note 25 60 64 10 0 35a0
+chord 1 28 60 64 10 0 35a0
+New Measure (3600)
+note 27 60 64 10 0 3600
+chord 1 2a 60 64 10 0 3600
+note 25 60 64 10 0 3660
+chord 1 28 60 64 10 0 3660
+New Measure (36c0)
+rest c0 36c0
+New Measure (3780)
+rest c0 3780
+New Measure (3840)
+rest c0 3840
+New Measure (3900)
+rest c0 3900
+New Measure (39c0)
+rest c0 39c0
+New Measure (3a80)
+note 23 60 64 10 0 3a80
+chord 1 27 60 64 10 0 3a80
+note 25 60 64 10 0 3ae0
+chord 1 28 60 64 10 0 3ae0
+New Measure (3b40)
+note 27 60 64 10 0 3b40
+chord 1 2a 60 64 10 0 3b40
+note 25 60 64 10 0 3ba0
+chord 1 28 60 64 10 0 3ba0
+New Measure (3c00)
+note 23 60 64 10 0 3c00
+chord 1 27 60 64 10 0 3c00
+note 25 60 64 10 0 3c60
+chord 1 28 60 64 10 0 3c60
+New Measure (3cc0)
+note 27 60 64 10 0 3cc0
+chord 1 2a 60 64 10 0 3cc0
+note 25 60 64 10 0 3d20
+chord 1 28 60 64 10 0 3d20
+New Measure (3d80)
+note 23 60 64 10 0 3d80
+chord 1 27 60 64 10 0 3d80
+note 25 60 64 10 0 3de0
+chord 1 28 60 64 10 0 3de0
+New Measure (3e40)
+note 27 60 64 10 0 3e40
+chord 1 2a 60 64 10 0 3e40
+note 25 60 64 10 0 3ea0
+chord 1 28 60 64 10 0 3ea0
+New Measure (3f00)
+note 23 60 64 10 0 3f00
+chord 1 27 60 64 10 0 3f00
+note 25 60 64 10 0 3f60
+chord 1 28 60 64 10 0 3f60
+New Measure (3fc0)
+note 27 60 64 10 0 3fc0
+chord 1 2a 60 64 10 0 3fc0
+note 25 60 64 10 0 4020
+chord 1 28 60 64 10 0 4020
+New Measure (4080)
+note 27 60 64 10 0 4080
+chord 1 2a 60 64 10 0 4080
+note 28 60 64 10 0 40e0
+chord 1 2c 60 64 10 0 40e0
+New Measure (4140)
+note 27 60 64 10 0 4140
+chord 1 2a 60 64 10 0 4140
+note 25 60 64 10 0 41a0
+chord 1 28 60 64 10 0 41a0
+New Measure (4200)
+note 27 60 64 10 0 4200
+chord 1 2a 60 64 10 0 4200
+New Measure (4260)
+note 23 60 64 10 0 4260
+chord 1 27 60 64 10 0 4260
+note 25 60 64 10 0 42c0
+chord 1 28 60 64 10 0 42c0
+New Measure (4320)
+note 27 60 64 10 0 4320
+chord 1 2a 60 64 10 0 4320
+note 25 60 64 10 0 4380
+chord 1 28 60 64 10 0 4380
+New Measure (43e0)
+note 23 60 64 10 0 43e0
+chord 1 27 60 64 10 0 43e0
+note 25 60 64 10 0 4440
+chord 1 28 60 64 10 0 4440
+New Measure (44a0)
+note 27 60 64 10 0 44a0
+chord 1 2a 60 64 10 0 44a0
+note 25 60 64 10 0 4500
+chord 1 28 60 64 10 0 4500
+New Measure (4560)
+note 23 60 64 10 0 4560
+chord 1 27 60 64 10 0 4560
+note 25 60 64 10 0 45c0
+chord 1 28 60 64 10 0 45c0
+New Measure (4620)
+note 27 60 64 10 0 4620
+chord 1 2a 60 64 10 0 4620
+note 25 60 64 10 0 4680
+chord 1 28 60 64 10 0 4680
+New Measure (46e0)
+note 27 60 64 10 0 46e0
+chord 1 2a 60 64 10 0 46e0
+note 28 60 64 10 0 4740
+chord 1 2c 60 64 10 0 4740
+New Measure (47a0)
+note 27 60 64 10 0 47a0
+chord 1 2a 60 64 10 0 47a0
+note 25 60 64 10 0 4800
+chord 1 28 60 64 10 0 4800
+New Measure (4860)
+note 27 60 64 10 0 4860
+chord 1 2a 60 64 10 0 4860
+New Measure (48c0)
+note 23 60 64 10 0 48c0
+chord 1 27 60 64 10 0 48c0
+note 25 60 64 10 0 4920
+chord 1 28 60 64 10 0 4920
+New Measure (4980)
+note 27 60 64 10 0 4980
+chord 1 2a 60 64 10 0 4980
+note 25 60 64 10 0 49e0
+chord 1 28 60 64 10 0 49e0
+TotalTimestamp 4a40
+Part P6
+Partname Harp                
+New Measure (0)
+rest c0 0
+New Measure (c0)
+rest c0 c0
+New Measure (180)
+rest c0 180
+New Measure (240)
+rest c0 240
+New Measure (300)
+rest c0 300
+New Measure (3c0)
+rest c0 3c0
+New Measure (480)
+rest c0 480
+New Measure (540)
+rest c0 540
+New Measure (600)
+rest c0 600
+New Measure (6c0)
+rest c0 6c0
+New Measure (780)
+rest 60 780
+New Measure (7e0)
+rest c0 7e0
+New Measure (8a0)
+rest c0 8a0
+New Measure (960)
+rest c0 960
+New Measure (a20)
+rest c0 a20
+New Measure (ae0)
+rest c0 ae0
+New Measure (ba0)
+rest c0 ba0
+New Measure (c60)
+rest c0 c60
+New Measure (d20)
+rest c0 d20
+New Measure (de0)
+rest 60 de0
+New Measure (e40)
+rest c0 e40
+New Measure (f00)
+rest c0 f00
+New Measure (fc0)
+note 1e 06 64 10 0 fc0
+note 22 06 64 10 1 fc6
+note 22 06 64 10 2 fcc
+chord 1 25 06 64 10 0 fcc
+rest 06 fd2
+note 27 06 64 10 1 fd8
+note 27 06 64 10 2 fde
+chord 1 2a 06 64 10 0 fde
+note 2e 06 64 10 0 fe4
+rest 06 fea
+note 31 06 64 10 0 ff0
+note 33 06 64 10 1 ff6
+note 33 06 64 10 2 ffc
+chord 1 36 06 64 10 0 ffc
+rest 06 1002
+note 3a 06 64 10 0 1008
+note 3d 06 64 10 0 100e
+note 3f 0c 64 10 0 1014
+note 42 06 64 10 0 1020
+note 3f 06 64 10 1 1026
+note 3d 06 64 10 0 102c
+chord 1 3f 06 64 10 2 102c
+rest 06 1032
+note 3a 06 64 10 0 1038
+note 36 06 64 10 0 103e
+note 33 0c 64 10 0 1044
+note 31 06 64 10 0 1050
+note 2e 06 64 10 0 1056
+note 2a 06 64 10 0 105c
+rest 06 1062
+note 27 06 64 10 1 1068
+note 25 06 64 10 0 106e
+chord 1 27 06 64 10 2 106e
+note 22 06 64 10 0 1074
+rest 06 107a
+New Measure (1080)
+note 1c 06 64 10 0 1080
+note 20 06 64 10 0 1086
+note 23 06 64 10 0 108c
+rest 06 1092
+note 25 06 64 10 0 1098
+note 28 06 64 10 0 109e
+note 2c 06 64 10 0 10a4
+rest 06 10aa
+note 2f 06 64 10 0 10b0
+note 31 06 64 10 1 10b6
+note 31 06 64 10 2 10bc
+chord 1 34 06 64 10 0 10bc
+rest 06 10c2
+note 38 06 64 10 0 10c8
+note 3b 06 64 10 0 10ce
+note 3d 0c 64 10 0 10d4
+note 40 06 64 10 0 10e0
+note 3d 06 64 10 1 10e6
+note 3b 06 64 10 0 10ec
+chord 1 3d 06 64 10 2 10ec
+rest 06 10f2
+note 38 06 64 10 0 10f8
+note 34 06 64 10 0 10fe
+note 31 0c 64 10 0 1104
+note 2f 06 64 10 0 1110
+note 2c 06 64 10 0 1116
+note 28 06 64 10 0 111c
+rest 06 1122
+note 25 06 64 10 0 1128
+note 23 06 64 10 0 112e
+note 20 06 64 10 0 1134
+rest 06 113a
+New Measure (1140)
+note 1e 06 64 10 0 1140
+note 22 06 64 10 0 1146
+note 25 06 64 10 0 114c
+rest 06 1152
+note 28 06 64 10 0 1158
+note 2a 06 64 10 0 115e
+note 2e 06 64 10 0 1164
+rest 06 116a
+note 31 06 64 10 0 1170
+note 34 06 64 10 0 1176
+note 36 06 64 10 0 117c
+rest 06 1182
+note 3a 06 64 10 0 1188
+note 3d 06 64 10 0 118e
+note 40 06 64 10 0 1194
+rest 06 119a
+note 42 06 64 10 0 11a0
+note 40 06 64 10 0 11a6
+note 3d 06 64 10 0 11ac
+rest 06 11b2
+note 3a 06 64 10 0 11b8
+note 36 06 64 10 0 11be
+note 34 06 64 10 0 11c4
+rest 06 11ca
+note 31 06 64 10 0 11d0
+note 2e 06 64 10 0 11d6
+note 2a 06 64 10 0 11dc
+rest 06 11e2
+note 28 06 64 10 0 11e8
+note 25 06 64 10 0 11ee
+note 22 06 64 10 0 11f4
+rest 06 11fa
+New Measure (1200)
+note 1c 06 64 10 0 1200
+note 20 06 64 10 0 1206
+note 23 06 64 10 0 120c
+rest 06 1212
+note 25 06 64 10 0 1218
+note 28 06 64 10 0 121e
+note 2c 06 64 10 0 1224
+rest 06 122a
+note 2f 06 64 10 0 1230
+note 31 06 64 10 0 1236
+note 34 06 64 10 0 123c
+rest 06 1242
+note 38 06 64 10 0 1248
+note 3b 06 64 10 0 124e
+note 3d 06 64 10 0 1254
+rest 06 125a
+note 40 06 64 10 0 1260
+note 3d 06 64 10 0 1266
+note 3b 06 64 10 0 126c
+rest 06 1272
+note 38 06 64 10 0 1278
+note 34 06 64 10 0 127e
+note 31 06 64 10 0 1284
+rest 06 128a
+note 2f 06 64 10 0 1290
+note 2c 06 64 10 0 1296
+note 28 06 64 10 0 129c
+rest 06 12a2
+note 25 06 64 10 0 12a8
+note 23 06 64 10 0 12ae
+note 20 06 64 10 0 12b4
+rest 06 12ba
+New Measure (12c0)
+note 1c 06 64 10 0 12c0
+note 20 06 64 10 1 12c6
+note 20 06 64 10 2 12cc
+chord 1 23 06 64 10 0 12cc
+rest 06 12d2
+note 25 06 64 10 1 12d8
+note 25 06 64 10 2 12de
+chord 1 28 06 64 10 0 12de
+note 2c 0c 64 10 0 12e4
+note 2f 06 64 10 0 12f0
+note 31 06 64 10 1 12f6
+note 31 06 64 10 2 12fc
+chord 1 34 06 64 10 0 12fc
+rest 06 1302
+note 38 06 64 10 1 1308
+note 38 06 64 10 2 130e
+chord 1 3b 06 64 10 0 130e
+note 3d 0c 64 10 0 1314
+note 3f 06 64 10 0 1320
+note 3d 06 64 10 1 1326
+note 3a 06 64 10 0 132c
+chord 1 3d 06 64 10 2 132c
+rest 06 1332
+note 36 06 64 10 1 1338
+note 33 06 64 10 0 133e
+chord 1 36 06 64 10 2 133e
+note 31 0c 64 10 0 1344
+note 2e 06 64 10 0 1350
+note 2a 06 64 10 1 1356
+note 27 06 64 10 0 135c
+chord 1 2a 06 64 10 2 135c
+rest 06 1362
+note 25 06 64 10 1 1368
+note 22 06 64 10 0 136e
+chord 1 25 06 64 10 2 136e
+note 1e 0c 64 10 0 1374
+New Measure (1380)
+note 2c 06 64 10 0 1380
+rest 06 1386
+note 2f 0c 64 10 0 138c
+note 33 06 64 10 0 1398
+rest 06 139e
+note 36 0c 64 10 0 13a4
+note 38 06 64 10 0 13b0
+rest 06 13b6
+note 3b 0c 64 10 0 13bc
+note 3f 06 64 10 0 13c8
+rest 06 13ce
+note 44 0c 64 10 0 13d4
+note 2c 06 64 10 0 13e0
+rest 06 13e6
+note 31 0c 64 10 0 13ec
+note 34 06 64 10 0 13f8
+rest 06 13fe
+note 36 0c 64 10 0 1404
+note 38 06 64 10 0 1410
+rest 06 1416
+note 3d 0c 64 10 0 141c
+note 40 06 64 10 0 1428
+rest 06 142e
+note 44 0c 64 10 0 1434
+New Measure (1440)
+note 2c 06 64 10 0 1440
+rest 06 1446
+note 33 0c 64 10 0 144c
+note 36 06 64 10 0 1458
+rest 06 145e
+note 38 0c 64 10 0 1464
+note 38 06 64 10 0 1470
+rest 06 1476
+note 3f 0c 64 10 0 147c
+note 42 06 64 10 0 1488
+rest 06 148e
+note 44 0c 64 10 0 1494
+note 2c 06 64 10 0 14a0
+rest 06 14a6
+note 31 0c 64 10 0 14ac
+note 34 06 64 10 0 14b8
+rest 06 14be
+note 38 0c 64 10 0 14c4
+note 38 0c 64 10 0 14d0
+note 3d 0c 64 10 0 14dc
+note 40 0c 64 10 0 14e8
+note 44 0c 64 10 0 14f4
+New Measure (1500)
+note 2c 06 64 10 0 1500
+rest 06 1506
+note 2f 0c 64 10 0 150c
+note 33 06 64 10 0 1518
+rest 06 151e
+note 36 0c 64 10 0 1524
+note 38 06 64 10 0 1530
+rest 06 1536
+note 3b 0c 64 10 0 153c
+note 3f 06 64 10 0 1548
+rest 06 154e
+note 44 0c 64 10 0 1554
+note 2c 06 64 10 0 1560
+rest 06 1566
+note 31 0c 64 10 0 156c
+note 34 06 64 10 0 1578
+rest 06 157e
+note 36 0c 64 10 0 1584
+note 38 06 64 10 0 1590
+rest 06 1596
+note 3d 0c 64 10 0 159c
+note 40 06 64 10 0 15a8
+rest 06 15ae
+note 44 0c 64 10 0 15b4
+New Measure (15c0)
+note 2c 06 64 10 0 15c0
+rest 06 15c6
+note 33 0c 64 10 0 15cc
+note 36 06 64 10 0 15d8
+rest 06 15de
+note 38 0c 64 10 0 15e4
+note 38 06 64 10 0 15f0
+rest 06 15f6
+note 3f 0c 64 10 0 15fc
+note 42 06 64 10 0 1608
+rest 06 160e
+note 44 0c 64 10 0 1614
+note 2c 06 64 10 0 1620
+rest 06 1626
+note 31 0c 64 10 0 162c
+note 34 06 64 10 0 1638
+rest 06 163e
+note 38 0c 64 10 0 1644
+note 38 0c 64 10 0 1650
+note 3d 0c 64 10 0 165c
+note 40 0c 64 10 0 1668
+note 44 0c 64 10 0 1674
+New Measure (1680)
+note 2c 06 64 10 0 1680
+rest 06 1686
+note 2f 0c 64 10 0 168c
+note 33 06 64 10 0 1698
+rest 06 169e
+note 36 0c 64 10 0 16a4
+note 38 06 64 10 0 16b0
+rest 06 16b6
+note 3b 0c 64 10 0 16bc
+note 3f 06 64 10 0 16c8
+rest 06 16ce
+note 44 0c 64 10 0 16d4
+note 2c 06 64 10 0 16e0
+rest 06 16e6
+note 31 0c 64 10 0 16ec
+note 34 06 64 10 0 16f8
+rest 06 16fe
+note 36 0c 64 10 0 1704
+note 38 06 64 10 0 1710
+rest 06 1716
+note 3d 0c 64 10 0 171c
+note 40 06 64 10 0 1728
+rest 06 172e
+note 44 0c 64 10 0 1734
+New Measure (1740)
+note 2c 06 64 10 0 1740
+rest 06 1746
+note 33 0c 64 10 0 174c
+note 36 06 64 10 0 1758
+rest 06 175e
+note 38 0c 64 10 0 1764
+note 38 06 64 10 0 1770
+rest 06 1776
+note 3f 0c 64 10 0 177c
+note 42 06 64 10 0 1788
+rest 06 178e
+note 44 0c 64 10 0 1794
+note 2c 06 64 10 0 17a0
+rest 06 17a6
+note 31 0c 64 10 0 17ac
+note 34 06 64 10 0 17b8
+rest 06 17be
+note 38 0c 64 10 0 17c4
+note 38 0c 64 10 0 17d0
+note 3d 0c 64 10 0 17dc
+note 40 0c 64 10 0 17e8
+note 44 0c 64 10 0 17f4
+New Measure (1800)
+note 2c 06 64 10 0 1800
+rest 06 1806
+note 2f 0c 64 10 0 180c
+note 33 06 64 10 0 1818
+rest 06 181e
+note 36 0c 64 10 0 1824
+note 38 06 64 10 0 1830
+rest 06 1836
+note 3b 0c 64 10 0 183c
+note 3f 06 64 10 0 1848
+rest 06 184e
+note 44 0c 64 10 0 1854
+note 2c 06 64 10 0 1860
+rest 06 1866
+note 31 0c 64 10 0 186c
+note 34 06 64 10 0 1878
+rest 06 187e
+note 36 0c 64 10 0 1884
+note 38 06 64 10 0 1890
+rest 06 1896
+note 3d 0c 64 10 0 189c
+note 40 06 64 10 0 18a8
+rest 06 18ae
+note 44 0c 64 10 0 18b4
+New Measure (18c0)
+note 2c 06 64 10 0 18c0
+rest 06 18c6
+note 33 09 64 10 0 18cc
+rest 03 18d5
+note 36 06 64 10 0 18d8
+rest 06 18de
+note 38 09 64 10 0 18e4
+rest 03 18ed
+note 38 06 64 10 0 18f0
+rest 06 18f6
+note 3f 09 64 10 0 18fc
+rest 03 1905
+note 42 06 64 10 0 1908
+rest 06 190e
+note 44 09 64 10 0 1914
+rest 03 191d
+note 2c 06 64 10 1 1920
+note 27 03 64 10 1 1926
+chord 1 2c 03 64 10 2 1926
+note 27 03 64 10 1 1929
+note 27 03 64 10 2 192c
+chord 1 28 03 64 10 1 192c
+note 28 03 64 10 1 192f
+note 28 03 64 10 2 1932
+chord 1 2a 03 64 10 1 1932
+note 2a 03 64 10 1 1935
+note 2a 03 64 10 2 1938
+chord 1 2c 03 64 10 1 1938
+note 2c 03 64 10 1 193b
+note 2c 03 64 10 2 193e
+chord 1 2e 03 64 10 1 193e
+note 2e 03 64 10 1 1941
+note 2e 03 64 10 2 1944
+chord 1 2f 03 64 10 1 1944
+note 2f 03 64 10 1 1947
+note 2f 03 64 10 2 194a
+chord 1 31 03 64 10 1 194a
+note 31 03 64 10 1 194d
+note 31 03 64 10 2 1950
+chord 1 33 03 64 10 1 1950
+note 33 03 64 10 1 1953
+note 33 03 64 10 2 1956
+chord 1 34 03 64 10 1 1956
+note 34 03 64 10 1 1959
+note 34 03 64 10 2 195c
+chord 1 36 03 64 10 1 195c
+note 36 03 64 10 1 195f
+note 36 03 64 10 2 1962
+chord 1 38 03 64 10 1 1962
+note 38 03 64 10 1 1965
+note 38 03 64 10 2 1968
+chord 1 3a 03 64 10 1 1968
+note 3a 03 64 10 1 196b
+note 3a 03 64 10 2 196e
+chord 1 3b 03 64 10 1 196e
+note 3b 03 64 10 1 1971
+note 3b 03 64 10 2 1974
+chord 1 3d 03 64 10 1 1974
+note 3d 03 64 10 1 1977
+note 3d 03 64 10 2 197a
+chord 1 3f 03 64 10 0 197a
+rest 03 197d
+New Measure (1980)
+note 2a 0c 64 10 0 1980
+note 2e 0c 64 10 0 198c
+note 33 0c 64 10 0 1998
+note 36 0c 64 10 0 19a4
+note 36 0c 64 10 0 19b0
+note 3a 0c 64 10 0 19bc
+note 3f 0c 64 10 0 19c8
+note 42 0c 64 10 0 19d4
+note 28 0c 64 10 0 19e0
+note 2c 0c 64 10 0 19ec
+note 2f 0c 64 10 0 19f8
+note 34 0c 64 10 0 1a04
+note 34 0c 64 10 0 1a10
+note 38 0c 64 10 0 1a1c
+note 3b 0c 64 10 0 1a28
+note 40 0c 64 10 0 1a34
+New Measure (1a40)
+note 27 0c 64 10 0 1a40
+note 2a 0c 64 10 0 1a4c
+note 2e 0c 64 10 0 1a58
+note 33 0c 64 10 0 1a64
+note 33 0c 64 10 0 1a70
+note 36 0c 64 10 0 1a7c
+note 3a 0c 64 10 0 1a88
+note 3f 0c 64 10 0 1a94
+note 25 0c 64 10 0 1aa0
+note 28 0c 64 10 0 1aac
+note 2c 0c 64 10 0 1ab8
+note 31 0c 64 10 0 1ac4
+note 31 0c 64 10 0 1ad0
+note 34 0c 64 10 0 1adc
+note 38 0c 64 10 0 1ae8
+note 3d 0c 64 10 0 1af4
+New Measure (1b00)
+note 27 0c 64 10 0 1b00
+note 2a 0c 64 10 0 1b0c
+note 2e 0c 64 10 0 1b18
+note 33 0c 64 10 0 1b24
+note 33 0c 64 10 0 1b30
+note 36 0c 64 10 0 1b3c
+note 3a 0c 64 10 0 1b48
+note 3f 0c 64 10 0 1b54
+New Measure (1b60)
+note 42 0c 64 10 0 1b60
+chord 1 44 0c 64 10 0 1b60
+note 3f 0c 64 10 0 1b6c
+chord 1 40 0c 64 10 0 1b6c
+note 40 0c 64 10 0 1b78
+chord 1 42 0c 64 10 0 1b78
+note 3d 0c 64 10 0 1b84
+chord 1 3f 0c 64 10 0 1b84
+note 3f 0c 64 10 0 1b90
+chord 1 40 0c 64 10 0 1b90
+note 3b 0c 64 10 0 1b9c
+chord 1 3d 0c 64 10 0 1b9c
+note 38 0c 64 10 0 1ba8
+chord 1 3a 0c 64 10 0 1ba8
+note 36 0c 64 10 0 1bb4
+chord 1 38 0c 64 10 0 1bb4
+note 38 0c 64 10 0 1bc0
+chord 1 3a 0c 64 10 0 1bc0
+note 34 0c 64 10 0 1bcc
+chord 1 36 0c 64 10 0 1bcc
+note 36 0c 64 10 0 1bd8
+chord 1 38 0c 64 10 0 1bd8
+note 33 0c 64 10 0 1be4
+chord 1 34 0c 64 10 0 1be4
+note 34 0c 64 10 0 1bf0
+chord 1 36 0c 64 10 0 1bf0
+note 31 0c 64 10 0 1bfc
+chord 1 33 0c 64 10 0 1bfc
+note 2e 0c 64 10 0 1c08
+chord 1 2f 0c 64 10 0 1c08
+note 2c 0c 64 10 0 1c14
+New Measure (1c20)
+note 2c 06 64 10 0 1c20
+rest 06 1c26
+note 33 0c 64 10 0 1c2c
+note 36 06 64 10 0 1c38
+rest 06 1c3e
+note 38 0c 64 10 0 1c44
+note 38 06 64 10 0 1c50
+rest 06 1c56
+note 3f 0c 64 10 0 1c5c
+note 42 06 64 10 0 1c68
+rest 06 1c6e
+note 44 0c 64 10 0 1c74
+note 2c 06 64 10 0 1c80
+rest 06 1c86
+note 31 0c 64 10 0 1c8c
+note 34 06 64 10 0 1c98
+rest 06 1c9e
+note 38 0c 64 10 0 1ca4
+note 38 0c 64 10 0 1cb0
+note 3d 0c 64 10 0 1cbc
+note 40 0c 64 10 0 1cc8
+note 44 0c 64 10 0 1cd4
+New Measure (1ce0)
+note 2c 06 64 10 0 1ce0
+rest 06 1ce6
+note 2f 0c 64 10 0 1cec
+note 33 06 64 10 0 1cf8
+rest 06 1cfe
+note 36 0c 64 10 0 1d04
+note 38 06 64 10 0 1d10
+rest 06 1d16
+note 3b 0c 64 10 0 1d1c
+note 3f 06 64 10 0 1d28
+rest 06 1d2e
+note 44 0c 64 10 0 1d34
+note 2c 06 64 10 0 1d40
+rest 06 1d46
+note 31 0c 64 10 0 1d4c
+note 34 06 64 10 0 1d58
+rest 06 1d5e
+note 36 0c 64 10 0 1d64
+note 38 06 64 10 0 1d70
+rest 06 1d76
+note 3d 0c 64 10 0 1d7c
+note 40 06 64 10 0 1d88
+rest 06 1d8e
+note 44 0c 64 10 0 1d94
+New Measure (1da0)
+note 2c 06 64 10 0 1da0
+rest 06 1da6
+note 33 0c 64 10 0 1dac
+note 36 06 64 10 0 1db8
+rest 06 1dbe
+note 38 0c 64 10 0 1dc4
+note 38 06 64 10 0 1dd0
+rest 06 1dd6
+note 3f 0c 64 10 0 1ddc
+note 42 06 64 10 0 1de8
+rest 06 1dee
+note 44 0c 64 10 0 1df4
+note 2c 06 64 10 0 1e00
+rest 06 1e06
+note 31 0c 64 10 0 1e0c
+note 34 06 64 10 0 1e18
+rest 06 1e1e
+note 38 0c 64 10 0 1e24
+note 38 0c 64 10 0 1e30
+note 3d 0c 64 10 0 1e3c
+note 40 0c 64 10 0 1e48
+note 44 0c 64 10 0 1e54
+New Measure (1e60)
+note 2c 06 64 10 0 1e60
+rest 06 1e66
+note 2f 0c 64 10 0 1e6c
+note 33 06 64 10 0 1e78
+rest 06 1e7e
+note 36 0c 64 10 0 1e84
+note 38 06 64 10 0 1e90
+rest 06 1e96
+note 3b 0c 64 10 0 1e9c
+note 3f 06 64 10 0 1ea8
+rest 06 1eae
+note 44 0c 64 10 0 1eb4
+note 2c 06 64 10 0 1ec0
+rest 06 1ec6
+note 31 0c 64 10 0 1ecc
+note 34 06 64 10 0 1ed8
+rest 06 1ede
+note 36 0c 64 10 0 1ee4
+note 38 06 64 10 0 1ef0
+rest 06 1ef6
+note 3d 0c 64 10 0 1efc
+note 40 06 64 10 0 1f08
+rest 06 1f0e
+note 44 0c 64 10 0 1f14
+New Measure (1f20)
+note 2c 06 64 10 0 1f20
+rest 06 1f26
+note 33 09 64 10 0 1f2c
+rest 03 1f35
+note 36 06 64 10 0 1f38
+rest 06 1f3e
+note 38 09 64 10 0 1f44
+rest 03 1f4d
+note 38 06 64 10 0 1f50
+rest 06 1f56
+note 3f 09 64 10 0 1f5c
+rest 03 1f65
+note 42 06 64 10 0 1f68
+rest 06 1f6e
+note 44 09 64 10 0 1f74
+rest 03 1f7d
+note 2c 06 64 10 1 1f80
+note 27 03 64 10 1 1f86
+chord 1 2c 03 64 10 2 1f86
+note 27 03 64 10 1 1f89
+note 27 03 64 10 2 1f8c
+chord 1 28 03 64 10 1 1f8c
+note 28 03 64 10 1 1f8f
+note 28 03 64 10 2 1f92
+chord 1 2a 03 64 10 1 1f92
+note 2a 03 64 10 1 1f95
+note 2a 03 64 10 2 1f98
+chord 1 2c 03 64 10 1 1f98
+note 2c 03 64 10 1 1f9b
+note 2c 03 64 10 2 1f9e
+chord 1 2e 03 64 10 1 1f9e
+note 2e 03 64 10 1 1fa1
+note 2e 03 64 10 2 1fa4
+chord 1 2f 03 64 10 1 1fa4
+note 2f 03 64 10 1 1fa7
+note 2f 03 64 10 2 1faa
+chord 1 31 03 64 10 1 1faa
+note 31 03 64 10 1 1fad
+note 31 03 64 10 2 1fb0
+chord 1 33 03 64 10 1 1fb0
+note 33 03 64 10 1 1fb3
+note 33 03 64 10 2 1fb6
+chord 1 34 03 64 10 1 1fb6
+note 34 03 64 10 1 1fb9
+note 34 03 64 10 2 1fbc
+chord 1 36 03 64 10 1 1fbc
+note 36 03 64 10 1 1fbf
+note 36 03 64 10 2 1fc2
+chord 1 38 03 64 10 1 1fc2
+note 38 03 64 10 1 1fc5
+note 38 03 64 10 2 1fc8
+chord 1 3a 03 64 10 1 1fc8
+note 3a 03 64 10 1 1fcb
+note 3a 03 64 10 2 1fce
+chord 1 3b 03 64 10 1 1fce
+note 3b 03 64 10 1 1fd1
+note 3b 03 64 10 2 1fd4
+chord 1 3d 03 64 10 1 1fd4
+note 3d 03 64 10 1 1fd7
+note 3d 03 64 10 2 1fda
+chord 1 3f 03 64 10 0 1fda
+rest 03 1fdd
+New Measure (1fe0)
+note 2a 0c 64 10 0 1fe0
+note 2e 0c 64 10 0 1fec
+note 33 0c 64 10 0 1ff8
+note 36 0c 64 10 0 2004
+note 36 0c 64 10 0 2010
+note 3a 0c 64 10 0 201c
+note 3f 0c 64 10 0 2028
+note 42 0c 64 10 0 2034
+note 28 0c 64 10 0 2040
+note 2c 0c 64 10 0 204c
+note 2f 0c 64 10 0 2058
+note 34 0c 64 10 0 2064
+note 34 0c 64 10 0 2070
+note 38 0c 64 10 0 207c
+note 3b 0c 64 10 0 2088
+note 40 0c 64 10 0 2094
+New Measure (20a0)
+note 27 0c 64 10 0 20a0
+note 2a 0c 64 10 0 20ac
+note 2e 0c 64 10 0 20b8
+note 33 0c 64 10 0 20c4
+note 33 0c 64 10 0 20d0
+note 36 0c 64 10 0 20dc
+note 3a 0c 64 10 0 20e8
+note 3f 0c 64 10 0 20f4
+note 25 0c 64 10 0 2100
+note 28 0c 64 10 0 210c
+note 2c 0c 64 10 0 2118
+note 31 0c 64 10 0 2124
+note 31 0c 64 10 0 2130
+note 34 0c 64 10 0 213c
+note 38 0c 64 10 0 2148
+note 3d 0c 64 10 0 2154
+New Measure (2160)
+note 27 0c 64 10 0 2160
+note 2a 0c 64 10 0 216c
+note 2e 0c 64 10 0 2178
+note 33 0c 64 10 0 2184
+note 33 0c 64 10 0 2190
+note 36 0c 64 10 0 219c
+note 3a 0c 64 10 0 21a8
+note 3f 0c 64 10 0 21b4
+New Measure (21c0)
+note 42 0c 64 10 0 21c0
+chord 1 44 0c 64 10 0 21c0
+note 3f 0c 64 10 0 21cc
+chord 1 40 0c 64 10 0 21cc
+note 40 0c 64 10 0 21d8
+chord 1 42 0c 64 10 0 21d8
+note 3d 0c 64 10 0 21e4
+chord 1 3f 0c 64 10 0 21e4
+note 3f 0c 64 10 0 21f0
+chord 1 40 0c 64 10 0 21f0
+note 3b 0c 64 10 0 21fc
+chord 1 3d 0c 64 10 0 21fc
+note 38 0c 64 10 0 2208
+chord 1 3a 0c 64 10 0 2208
+note 36 0c 64 10 0 2214
+chord 1 38 0c 64 10 0 2214
+note 38 0c 64 10 0 2220
+chord 1 3a 0c 64 10 0 2220
+note 34 0c 64 10 0 222c
+chord 1 36 0c 64 10 0 222c
+note 36 0c 64 10 0 2238
+chord 1 38 0c 64 10 0 2238
+note 33 0c 64 10 0 2244
+chord 1 34 0c 64 10 0 2244
+note 34 0c 64 10 0 2250
+chord 1 36 0c 64 10 0 2250
+note 31 0c 64 10 0 225c
+chord 1 33 0c 64 10 0 225c
+note 2e 0c 64 10 0 2268
+chord 1 2f 0c 64 10 0 2268
+note 2c 0c 64 10 0 2274
+New Measure (2280)
+note 2c 06 64 10 0 2280
+rest 06 2286
+note 33 09 64 10 0 228c
+rest 03 2295
+note 36 06 64 10 0 2298
+rest 06 229e
+note 38 09 64 10 0 22a4
+rest 03 22ad
+note 38 06 64 10 0 22b0
+rest 06 22b6
+note 3f 09 64 10 0 22bc
+rest 03 22c5
+note 42 06 64 10 0 22c8
+rest 06 22ce
+note 44 09 64 10 0 22d4
+rest 03 22dd
+note 2c 06 64 10 1 22e0
+note 27 03 64 10 1 22e6
+chord 1 2c 03 64 10 2 22e6
+note 27 03 64 10 1 22e9
+note 27 03 64 10 2 22ec
+chord 1 28 03 64 10 1 22ec
+note 28 03 64 10 1 22ef
+note 28 03 64 10 2 22f2
+chord 1 2a 03 64 10 1 22f2
+note 2a 03 64 10 1 22f5
+note 2a 03 64 10 2 22f8
+chord 1 2c 03 64 10 1 22f8
+note 2c 03 64 10 1 22fb
+note 2c 03 64 10 2 22fe
+chord 1 2e 03 64 10 1 22fe
+note 2e 03 64 10 1 2301
+note 2e 03 64 10 2 2304
+chord 1 2f 03 64 10 1 2304
+note 2f 03 64 10 1 2307
+note 2f 03 64 10 2 230a
+chord 1 31 03 64 10 1 230a
+note 31 03 64 10 1 230d
+note 31 03 64 10 2 2310
+chord 1 33 03 64 10 1 2310
+note 33 03 64 10 1 2313
+note 33 03 64 10 2 2316
+chord 1 34 03 64 10 1 2316
+note 34 03 64 10 1 2319
+note 34 03 64 10 2 231c
+chord 1 36 03 64 10 1 231c
+note 36 03 64 10 1 231f
+note 36 03 64 10 2 2322
+chord 1 38 03 64 10 1 2322
+note 38 03 64 10 1 2325
+note 38 03 64 10 2 2328
+chord 1 3a 03 64 10 1 2328
+note 3a 03 64 10 1 232b
+note 3a 03 64 10 2 232e
+chord 1 3b 03 64 10 1 232e
+note 3b 03 64 10 1 2331
+note 3b 03 64 10 2 2334
+chord 1 3d 03 64 10 1 2334
+note 3d 03 64 10 1 2337
+note 3d 03 64 10 2 233a
+chord 1 3f 03 64 10 0 233a
+rest 03 233d
+New Measure (2340)
+note 1e 06 64 10 0 2340
+note 22 06 64 10 1 2346
+note 22 06 64 10 2 234c
+chord 1 25 06 64 10 0 234c
+rest 06 2352
+note 27 06 64 10 1 2358
+note 27 06 64 10 2 235e
+chord 1 2a 06 64 10 0 235e
+note 2e 06 64 10 0 2364
+rest 06 236a
+note 31 06 64 10 0 2370
+note 33 06 64 10 1 2376
+note 33 06 64 10 2 237c
+chord 1 36 06 64 10 0 237c
+rest 06 2382
+note 3a 06 64 10 0 2388
+note 3d 06 64 10 0 238e
+note 3f 0c 64 10 0 2394
+note 42 06 64 10 0 23a0
+note 3f 06 64 10 1 23a6
+note 3d 06 64 10 0 23ac
+chord 1 3f 06 64 10 2 23ac
+rest 06 23b2
+note 3a 06 64 10 0 23b8
+note 36 06 64 10 0 23be
+note 33 0c 64 10 0 23c4
+note 31 06 64 10 0 23d0
+note 2e 06 64 10 0 23d6
+note 2a 06 64 10 0 23dc
+rest 06 23e2
+note 27 06 64 10 1 23e8
+note 25 06 64 10 0 23ee
+chord 1 27 06 64 10 2 23ee
+note 22 06 64 10 0 23f4
+rest 06 23fa
+New Measure (2400)
+note 1c 06 64 10 0 2400
+note 20 06 64 10 0 2406
+note 23 06 64 10 0 240c
+rest 06 2412
+note 25 06 64 10 0 2418
+note 28 06 64 10 0 241e
+note 2c 06 64 10 0 2424
+rest 06 242a
+note 2f 06 64 10 0 2430
+note 31 06 64 10 1 2436
+note 31 06 64 10 2 243c
+chord 1 34 06 64 10 0 243c
+rest 06 2442
+note 38 06 64 10 0 2448
+note 3b 06 64 10 0 244e
+note 3d 0c 64 10 0 2454
+note 40 06 64 10 0 2460
+note 3d 06 64 10 1 2466
+note 3b 06 64 10 0 246c
+chord 1 3d 06 64 10 2 246c
+rest 06 2472
+note 38 06 64 10 0 2478
+note 34 06 64 10 0 247e
+note 31 0c 64 10 0 2484
+note 2f 06 64 10 0 2490
+note 2c 06 64 10 0 2496
+note 28 06 64 10 0 249c
+rest 06 24a2
+note 25 06 64 10 0 24a8
+note 23 06 64 10 0 24ae
+note 20 06 64 10 0 24b4
+rest 06 24ba
+New Measure (24c0)
+note 1e 06 64 10 0 24c0
+note 22 06 64 10 0 24c6
+note 25 06 64 10 0 24cc
+rest 06 24d2
+note 28 06 64 10 0 24d8
+note 2a 06 64 10 0 24de
+note 2e 06 64 10 0 24e4
+rest 06 24ea
+note 31 06 64 10 0 24f0
+note 34 06 64 10 0 24f6
+note 36 06 64 10 0 24fc
+rest 06 2502
+note 3a 06 64 10 0 2508
+note 3d 06 64 10 0 250e
+note 40 06 64 10 0 2514
+rest 06 251a
+note 42 06 64 10 0 2520
+note 40 06 64 10 0 2526
+note 3d 06 64 10 0 252c
+rest 06 2532
+note 3a 06 64 10 0 2538
+note 36 06 64 10 0 253e
+note 34 06 64 10 0 2544
+rest 06 254a
+note 31 06 64 10 0 2550
+note 2e 06 64 10 0 2556
+note 2a 06 64 10 0 255c
+rest 06 2562
+note 28 06 64 10 0 2568
+note 25 06 64 10 0 256e
+note 22 06 64 10 0 2574
+rest 06 257a
+New Measure (2580)
+note 1c 06 64 10 0 2580
+note 20 06 64 10 0 2586
+note 23 06 64 10 0 258c
+rest 06 2592
+note 25 06 64 10 0 2598
+note 28 06 64 10 0 259e
+note 2c 06 64 10 0 25a4
+rest 06 25aa
+note 2f 06 64 10 0 25b0
+note 31 06 64 10 0 25b6
+note 34 06 64 10 0 25bc
+rest 06 25c2
+note 38 06 64 10 0 25c8
+note 3b 06 64 10 0 25ce
+note 3d 06 64 10 0 25d4
+rest 06 25da
+note 40 06 64 10 0 25e0
+note 3d 06 64 10 0 25e6
+note 3b 06 64 10 0 25ec
+rest 06 25f2
+note 38 06 64 10 0 25f8
+note 34 06 64 10 0 25fe
+note 31 06 64 10 0 2604
+rest 06 260a
+note 2f 06 64 10 0 2610
+note 2c 06 64 10 0 2616
+note 28 06 64 10 0 261c
+rest 06 2622
+note 25 06 64 10 0 2628
+note 23 06 64 10 0 262e
+note 20 06 64 10 0 2634
+rest 06 263a
+New Measure (2640)
+note 1c 06 64 10 0 2640
+note 20 06 64 10 1 2646
+note 20 06 64 10 2 264c
+chord 1 23 06 64 10 0 264c
+rest 06 2652
+note 25 06 64 10 1 2658
+note 25 06 64 10 2 265e
+chord 1 28 06 64 10 0 265e
+note 2c 0c 64 10 0 2664
+note 2f 06 64 10 0 2670
+note 31 06 64 10 1 2676
+note 31 06 64 10 2 267c
+chord 1 34 06 64 10 0 267c
+rest 06 2682
+note 38 06 64 10 1 2688
+note 38 06 64 10 2 268e
+chord 1 3b 06 64 10 0 268e
+note 3d 0c 64 10 0 2694
+note 3f 06 64 10 0 26a0
+note 3d 06 64 10 1 26a6
+note 3a 06 64 10 0 26ac
+chord 1 3d 06 64 10 2 26ac
+rest 06 26b2
+note 36 06 64 10 1 26b8
+note 33 06 64 10 0 26be
+chord 1 36 06 64 10 2 26be
+note 31 0c 64 10 0 26c4
+note 2e 06 64 10 0 26d0
+note 2a 06 64 10 1 26d6
+note 27 06 64 10 0 26dc
+chord 1 2a 06 64 10 2 26dc
+rest 06 26e2
+note 25 06 64 10 1 26e8
+note 22 06 64 10 0 26ee
+chord 1 25 06 64 10 2 26ee
+note 1e 0c 64 10 0 26f4
+New Measure (2700)
+note 2c 06 64 10 0 2700
+rest 06 2706
+note 2f 0c 64 10 0 270c
+note 33 06 64 10 0 2718
+rest 06 271e
+note 36 0c 64 10 0 2724
+note 38 06 64 10 0 2730
+rest 06 2736
+note 3b 0c 64 10 0 273c
+note 3f 06 64 10 0 2748
+rest 06 274e
+note 44 0c 64 10 0 2754
+note 2c 06 64 10 0 2760
+rest 06 2766
+note 31 0c 64 10 0 276c
+note 34 06 64 10 0 2778
+rest 06 277e
+note 36 0c 64 10 0 2784
+note 38 06 64 10 0 2790
+rest 06 2796
+note 3d 0c 64 10 0 279c
+note 40 06 64 10 0 27a8
+rest 06 27ae
+note 44 0c 64 10 0 27b4
+New Measure (27c0)
+note 2c 06 64 10 0 27c0
+rest 06 27c6
+note 33 0c 64 10 0 27cc
+note 36 06 64 10 0 27d8
+rest 06 27de
+note 38 0c 64 10 0 27e4
+note 38 06 64 10 0 27f0
+rest 06 27f6
+note 3f 0c 64 10 0 27fc
+note 42 06 64 10 0 2808
+rest 06 280e
+note 44 0c 64 10 0 2814
+note 2c 06 64 10 0 2820
+rest 06 2826
+note 31 0c 64 10 0 282c
+note 34 06 64 10 0 2838
+rest 06 283e
+note 38 0c 64 10 0 2844
+note 38 0c 64 10 0 2850
+note 3d 0c 64 10 0 285c
+note 40 0c 64 10 0 2868
+note 44 0c 64 10 0 2874
+New Measure (2880)
+note 2c 06 64 10 0 2880
+rest 06 2886
+note 2f 0c 64 10 0 288c
+note 33 06 64 10 0 2898
+rest 06 289e
+note 36 0c 64 10 0 28a4
+note 38 06 64 10 0 28b0
+rest 06 28b6
+note 3b 0c 64 10 0 28bc
+note 3f 06 64 10 0 28c8
+rest 06 28ce
+note 44 0c 64 10 0 28d4
+note 2c 06 64 10 0 28e0
+rest 06 28e6
+note 31 0c 64 10 0 28ec
+note 34 06 64 10 0 28f8
+rest 06 28fe
+note 36 0c 64 10 0 2904
+note 38 06 64 10 0 2910
+rest 06 2916
+note 3d 0c 64 10 0 291c
+note 40 06 64 10 0 2928
+rest 06 292e
+note 44 0c 64 10 0 2934
+New Measure (2940)
+note 2c 06 64 10 0 2940
+rest 06 2946
+note 33 0c 64 10 0 294c
+note 36 06 64 10 0 2958
+rest 06 295e
+note 38 0c 64 10 0 2964
+note 38 06 64 10 0 2970
+rest 06 2976
+note 3f 0c 64 10 0 297c
+note 42 06 64 10 0 2988
+rest 06 298e
+note 44 0c 64 10 0 2994
+note 2c 06 64 10 0 29a0
+rest 06 29a6
+note 31 0c 64 10 0 29ac
+note 34 06 64 10 0 29b8
+rest 06 29be
+note 38 0c 64 10 0 29c4
+note 38 0c 64 10 0 29d0
+note 3d 0c 64 10 0 29dc
+note 40 0c 64 10 0 29e8
+note 44 0c 64 10 0 29f4
+New Measure (2a00)
+note 2c 06 64 10 0 2a00
+rest 06 2a06
+note 2f 0c 64 10 0 2a0c
+note 33 06 64 10 0 2a18
+rest 06 2a1e
+note 36 0c 64 10 0 2a24
+note 38 06 64 10 0 2a30
+rest 06 2a36
+note 3b 0c 64 10 0 2a3c
+note 3f 06 64 10 0 2a48
+rest 06 2a4e
+note 44 0c 64 10 0 2a54
+note 2c 06 64 10 0 2a60
+rest 06 2a66
+note 31 0c 64 10 0 2a6c
+note 34 06 64 10 0 2a78
+rest 06 2a7e
+note 36 0c 64 10 0 2a84
+note 38 06 64 10 0 2a90
+rest 06 2a96
+note 3d 0c 64 10 0 2a9c
+note 40 06 64 10 0 2aa8
+rest 06 2aae
+note 44 0c 64 10 0 2ab4
+New Measure (2ac0)
+note 2c 06 64 10 0 2ac0
+rest 06 2ac6
+note 33 0c 64 10 0 2acc
+note 36 06 64 10 0 2ad8
+rest 06 2ade
+note 38 0c 64 10 0 2ae4
+note 38 06 64 10 0 2af0
+rest 06 2af6
+note 3f 0c 64 10 0 2afc
+note 42 06 64 10 0 2b08
+rest 06 2b0e
+note 44 0c 64 10 0 2b14
+note 2c 06 64 10 0 2b20
+rest 06 2b26
+note 31 0c 64 10 0 2b2c
+note 34 06 64 10 0 2b38
+rest 06 2b3e
+note 38 0c 64 10 0 2b44
+note 38 0c 64 10 0 2b50
+note 3d 0c 64 10 0 2b5c
+note 40 0c 64 10 0 2b68
+note 44 0c 64 10 0 2b74
+New Measure (2b80)
+note 2c 06 64 10 0 2b80
+rest 06 2b86
+note 2f 0c 64 10 0 2b8c
+note 33 06 64 10 0 2b98
+rest 06 2b9e
+note 36 0c 64 10 0 2ba4
+note 38 06 64 10 0 2bb0
+rest 06 2bb6
+note 3b 0c 64 10 0 2bbc
+note 3f 06 64 10 0 2bc8
+rest 06 2bce
+note 44 0c 64 10 0 2bd4
+note 2c 06 64 10 0 2be0
+rest 06 2be6
+note 31 0c 64 10 0 2bec
+note 34 06 64 10 0 2bf8
+rest 06 2bfe
+note 36 0c 64 10 0 2c04
+note 38 06 64 10 0 2c10
+rest 06 2c16
+note 3d 0c 64 10 0 2c1c
+note 40 06 64 10 0 2c28
+rest 06 2c2e
+note 44 0c 64 10 0 2c34
+New Measure (2c40)
+note 2c 06 64 10 0 2c40
+rest 06 2c46
+note 33 09 64 10 0 2c4c
+rest 03 2c55
+note 36 06 64 10 0 2c58
+rest 06 2c5e
+note 38 09 64 10 0 2c64
+rest 03 2c6d
+note 38 06 64 10 0 2c70
+rest 06 2c76
+note 3f 09 64 10 0 2c7c
+rest 03 2c85
+note 42 06 64 10 0 2c88
+rest 06 2c8e
+note 44 09 64 10 0 2c94
+rest 03 2c9d
+note 2c 06 64 10 1 2ca0
+note 27 03 64 10 1 2ca6
+chord 1 2c 03 64 10 2 2ca6
+note 27 03 64 10 1 2ca9
+note 27 03 64 10 2 2cac
+chord 1 28 03 64 10 1 2cac
+note 28 03 64 10 1 2caf
+note 28 03 64 10 2 2cb2
+chord 1 2a 03 64 10 1 2cb2
+note 2a 03 64 10 1 2cb5
+note 2a 03 64 10 2 2cb8
+chord 1 2c 03 64 10 1 2cb8
+note 2c 03 64 10 1 2cbb
+note 2c 03 64 10 2 2cbe
+chord 1 2e 03 64 10 1 2cbe
+note 2e 03 64 10 1 2cc1
+note 2e 03 64 10 2 2cc4
+chord 1 2f 03 64 10 1 2cc4
+note 2f 03 64 10 1 2cc7
+note 2f 03 64 10 2 2cca
+chord 1 31 03 64 10 1 2cca
+note 31 03 64 10 1 2ccd
+note 31 03 64 10 2 2cd0
+chord 1 33 03 64 10 1 2cd0
+note 33 03 64 10 1 2cd3
+note 33 03 64 10 2 2cd6
+chord 1 34 03 64 10 1 2cd6
+note 34 03 64 10 1 2cd9
+note 34 03 64 10 2 2cdc
+chord 1 36 03 64 10 1 2cdc
+note 36 03 64 10 1 2cdf
+note 36 03 64 10 2 2ce2
+chord 1 38 03 64 10 1 2ce2
+note 38 03 64 10 1 2ce5
+note 38 03 64 10 2 2ce8
+chord 1 3a 03 64 10 1 2ce8
+note 3a 03 64 10 1 2ceb
+note 3a 03 64 10 2 2cee
+chord 1 3b 03 64 10 1 2cee
+note 3b 03 64 10 1 2cf1
+note 3b 03 64 10 2 2cf4
+chord 1 3d 03 64 10 1 2cf4
+note 3d 03 64 10 1 2cf7
+note 3d 03 64 10 2 2cfa
+chord 1 3f 03 64 10 0 2cfa
+rest 03 2cfd
+New Measure (2d00)
+note 2a 0c 64 10 0 2d00
+note 2e 0c 64 10 0 2d0c
+note 33 0c 64 10 0 2d18
+note 36 0c 64 10 0 2d24
+note 36 0c 64 10 0 2d30
+note 3a 0c 64 10 0 2d3c
+note 3f 0c 64 10 0 2d48
+note 42 0c 64 10 0 2d54
+note 28 0c 64 10 0 2d60
+note 2c 0c 64 10 0 2d6c
+note 2f 0c 64 10 0 2d78
+note 34 0c 64 10 0 2d84
+note 34 0c 64 10 0 2d90
+note 38 0c 64 10 0 2d9c
+note 3b 0c 64 10 0 2da8
+note 40 0c 64 10 0 2db4
+New Measure (2dc0)
+note 27 0c 64 10 0 2dc0
+note 2a 0c 64 10 0 2dcc
+note 2e 0c 64 10 0 2dd8
+note 33 0c 64 10 0 2de4
+note 33 0c 64 10 0 2df0
+note 36 0c 64 10 0 2dfc
+note 3a 0c 64 10 0 2e08
+note 3f 0c 64 10 0 2e14
+note 25 0c 64 10 0 2e20
+note 28 0c 64 10 0 2e2c
+note 2c 0c 64 10 0 2e38
+note 31 0c 64 10 0 2e44
+note 31 0c 64 10 0 2e50
+note 34 0c 64 10 0 2e5c
+note 38 0c 64 10 0 2e68
+note 3d 0c 64 10 0 2e74
+New Measure (2e80)
+note 27 0c 64 10 0 2e80
+note 2a 0c 64 10 0 2e8c
+note 2e 0c 64 10 0 2e98
+note 33 0c 64 10 0 2ea4
+note 33 0c 64 10 0 2eb0
+note 36 0c 64 10 0 2ebc
+note 3a 0c 64 10 0 2ec8
+note 3f 0c 64 10 0 2ed4
+New Measure (2ee0)
+note 42 0c 64 10 0 2ee0
+chord 1 44 0c 64 10 0 2ee0
+note 3f 0c 64 10 0 2eec
+chord 1 40 0c 64 10 0 2eec
+note 40 0c 64 10 0 2ef8
+chord 1 42 0c 64 10 0 2ef8
+note 3d 0c 64 10 0 2f04
+chord 1 3f 0c 64 10 0 2f04
+note 3f 0c 64 10 0 2f10
+chord 1 40 0c 64 10 0 2f10
+note 3b 0c 64 10 0 2f1c
+chord 1 3d 0c 64 10 0 2f1c
+note 38 0c 64 10 0 2f28
+chord 1 3a 0c 64 10 0 2f28
+note 36 0c 64 10 0 2f34
+chord 1 38 0c 64 10 0 2f34
+note 38 0c 64 10 0 2f40
+chord 1 3a 0c 64 10 0 2f40
+note 34 0c 64 10 0 2f4c
+chord 1 36 0c 64 10 0 2f4c
+note 36 0c 64 10 0 2f58
+chord 1 38 0c 64 10 0 2f58
+note 33 0c 64 10 0 2f64
+chord 1 34 0c 64 10 0 2f64
+note 34 0c 64 10 0 2f70
+chord 1 36 0c 64 10 0 2f70
+note 31 0c 64 10 0 2f7c
+chord 1 33 0c 64 10 0 2f7c
+note 2e 0c 64 10 0 2f88
+chord 1 2f 0c 64 10 0 2f88
+note 2c 0c 64 10 0 2f94
+New Measure (2fa0)
+note 2c 06 64 10 0 2fa0
+rest 06 2fa6
+note 33 0c 64 10 0 2fac
+note 36 06 64 10 0 2fb8
+rest 06 2fbe
+note 38 0c 64 10 0 2fc4
+note 38 06 64 10 0 2fd0
+rest 06 2fd6
+note 3f 0c 64 10 0 2fdc
+note 42 06 64 10 0 2fe8
+rest 06 2fee
+note 44 0c 64 10 0 2ff4
+note 2c 06 64 10 0 3000
+rest 06 3006
+note 31 0c 64 10 0 300c
+note 34 06 64 10 0 3018
+rest 06 301e
+note 38 0c 64 10 0 3024
+note 38 0c 64 10 0 3030
+note 3d 0c 64 10 0 303c
+note 40 0c 64 10 0 3048
+note 44 0c 64 10 0 3054
+New Measure (3060)
+note 2c 06 64 10 0 3060
+rest 06 3066
+note 2f 0c 64 10 0 306c
+note 33 06 64 10 0 3078
+rest 06 307e
+note 36 0c 64 10 0 3084
+note 38 06 64 10 0 3090
+rest 06 3096
+note 3b 0c 64 10 0 309c
+note 3f 06 64 10 0 30a8
+rest 06 30ae
+note 44 0c 64 10 0 30b4
+note 2c 06 64 10 0 30c0
+rest 06 30c6
+note 31 0c 64 10 0 30cc
+note 34 06 64 10 0 30d8
+rest 06 30de
+note 36 0c 64 10 0 30e4
+note 38 06 64 10 0 30f0
+rest 06 30f6
+note 3d 0c 64 10 0 30fc
+note 40 06 64 10 0 3108
+rest 06 310e
+note 44 0c 64 10 0 3114
+New Measure (3120)
+note 2c 06 64 10 0 3120
+rest 06 3126
+note 33 0c 64 10 0 312c
+note 36 06 64 10 0 3138
+rest 06 313e
+note 38 0c 64 10 0 3144
+note 38 06 64 10 0 3150
+rest 06 3156
+note 3f 0c 64 10 0 315c
+note 42 06 64 10 0 3168
+rest 06 316e
+note 44 0c 64 10 0 3174
+note 2c 06 64 10 0 3180
+rest 06 3186
+note 31 0c 64 10 0 318c
+note 34 06 64 10 0 3198
+rest 06 319e
+note 38 0c 64 10 0 31a4
+note 38 0c 64 10 0 31b0
+note 3d 0c 64 10 0 31bc
+note 40 0c 64 10 0 31c8
+note 44 0c 64 10 0 31d4
+New Measure (31e0)
+note 2c 06 64 10 0 31e0
+rest 06 31e6
+note 2f 0c 64 10 0 31ec
+note 33 06 64 10 0 31f8
+rest 06 31fe
+note 36 0c 64 10 0 3204
+note 38 06 64 10 0 3210
+rest 06 3216
+note 3b 0c 64 10 0 321c
+note 3f 06 64 10 0 3228
+rest 06 322e
+note 44 0c 64 10 0 3234
+note 2c 06 64 10 0 3240
+rest 06 3246
+note 31 0c 64 10 0 324c
+note 34 06 64 10 0 3258
+rest 06 325e
+note 36 0c 64 10 0 3264
+note 38 06 64 10 0 3270
+rest 06 3276
+note 3d 0c 64 10 0 327c
+note 40 06 64 10 0 3288
+rest 06 328e
+note 44 0c 64 10 0 3294
+New Measure (32a0)
+note 2c 06 64 10 0 32a0
+rest 06 32a6
+note 33 09 64 10 0 32ac
+rest 03 32b5
+note 36 06 64 10 0 32b8
+rest 06 32be
+note 38 09 64 10 0 32c4
+rest 03 32cd
+note 38 06 64 10 0 32d0
+rest 06 32d6
+note 3f 09 64 10 0 32dc
+rest 03 32e5
+note 42 06 64 10 0 32e8
+rest 06 32ee
+note 44 09 64 10 0 32f4
+rest 03 32fd
+note 2c 06 64 10 1 3300
+note 27 03 64 10 1 3306
+chord 1 2c 03 64 10 2 3306
+note 27 03 64 10 1 3309
+note 27 03 64 10 2 330c
+chord 1 28 03 64 10 1 330c
+note 28 03 64 10 1 330f
+note 28 03 64 10 2 3312
+chord 1 2a 03 64 10 1 3312
+note 2a 03 64 10 1 3315
+note 2a 03 64 10 2 3318
+chord 1 2c 03 64 10 1 3318
+note 2c 03 64 10 1 331b
+note 2c 03 64 10 2 331e
+chord 1 2e 03 64 10 1 331e
+note 2e 03 64 10 1 3321
+note 2e 03 64 10 2 3324
+chord 1 2f 03 64 10 1 3324
+note 2f 03 64 10 1 3327
+note 2f 03 64 10 2 332a
+chord 1 31 03 64 10 1 332a
+note 31 03 64 10 1 332d
+note 31 03 64 10 2 3330
+chord 1 33 03 64 10 1 3330
+note 33 03 64 10 1 3333
+note 33 03 64 10 2 3336
+chord 1 34 03 64 10 1 3336
+note 34 03 64 10 1 3339
+note 34 03 64 10 2 333c
+chord 1 36 03 64 10 1 333c
+note 36 03 64 10 1 333f
+note 36 03 64 10 2 3342
+chord 1 38 03 64 10 1 3342
+note 38 03 64 10 1 3345
+note 38 03 64 10 2 3348
+chord 1 3a 03 64 10 1 3348
+note 3a 03 64 10 1 334b
+note 3a 03 64 10 2 334e
+chord 1 3b 03 64 10 1 334e
+note 3b 03 64 10 1 3351
+note 3b 03 64 10 2 3354
+chord 1 3d 03 64 10 1 3354
+note 3d 03 64 10 1 3357
+note 3d 03 64 10 2 335a
+chord 1 3f 03 64 10 0 335a
+rest 03 335d
+New Measure (3360)
+note 2a 0c 64 10 0 3360
+note 2e 0c 64 10 0 336c
+note 33 0c 64 10 0 3378
+note 36 0c 64 10 0 3384
+note 36 0c 64 10 0 3390
+note 3a 0c 64 10 0 339c
+note 3f 0c 64 10 0 33a8
+note 42 0c 64 10 0 33b4
+note 28 0c 64 10 0 33c0
+note 2c 0c 64 10 0 33cc
+note 2f 0c 64 10 0 33d8
+note 34 0c 64 10 0 33e4
+note 34 0c 64 10 0 33f0
+note 38 0c 64 10 0 33fc
+note 3b 0c 64 10 0 3408
+note 40 0c 64 10 0 3414
+New Measure (3420)
+note 27 0c 64 10 0 3420
+note 2a 0c 64 10 0 342c
+note 2e 0c 64 10 0 3438
+note 33 0c 64 10 0 3444
+note 33 0c 64 10 0 3450
+note 36 0c 64 10 0 345c
+note 3a 0c 64 10 0 3468
+note 3f 0c 64 10 0 3474
+note 25 0c 64 10 0 3480
+note 28 0c 64 10 0 348c
+note 2c 0c 64 10 0 3498
+note 31 0c 64 10 0 34a4
+note 31 0c 64 10 0 34b0
+note 34 0c 64 10 0 34bc
+note 38 0c 64 10 0 34c8
+note 3d 0c 64 10 0 34d4
+New Measure (34e0)
+note 27 0c 64 10 0 34e0
+note 2a 0c 64 10 0 34ec
+note 2e 0c 64 10 0 34f8
+note 33 0c 64 10 0 3504
+note 33 0c 64 10 0 3510
+note 36 0c 64 10 0 351c
+note 3a 0c 64 10 0 3528
+note 3f 0c 64 10 0 3534
+New Measure (3540)
+note 42 0c 64 10 0 3540
+chord 1 44 0c 64 10 0 3540
+note 3f 0c 64 10 0 354c
+chord 1 40 0c 64 10 0 354c
+note 40 0c 64 10 0 3558
+chord 1 42 0c 64 10 0 3558
+note 3d 0c 64 10 0 3564
+chord 1 3f 0c 64 10 0 3564
+note 3f 0c 64 10 0 3570
+chord 1 40 0c 64 10 0 3570
+note 3b 0c 64 10 0 357c
+chord 1 3d 0c 64 10 0 357c
+note 38 0c 64 10 0 3588
+chord 1 3a 0c 64 10 0 3588
+note 36 0c 64 10 0 3594
+chord 1 38 0c 64 10 0 3594
+note 38 0c 64 10 0 35a0
+chord 1 3a 0c 64 10 0 35a0
+note 34 0c 64 10 0 35ac
+chord 1 36 0c 64 10 0 35ac
+note 36 0c 64 10 0 35b8
+chord 1 38 0c 64 10 0 35b8
+note 33 0c 64 10 0 35c4
+chord 1 34 0c 64 10 0 35c4
+note 34 0c 64 10 0 35d0
+chord 1 36 0c 64 10 0 35d0
+note 31 0c 64 10 0 35dc
+chord 1 33 0c 64 10 0 35dc
+note 2e 0c 64 10 0 35e8
+chord 1 2f 0c 64 10 0 35e8
+note 2c 0c 64 10 0 35f4
+New Measure (3600)
+note 2c 06 64 10 0 3600
+rest 06 3606
+note 33 09 64 10 0 360c
+rest 03 3615
+note 36 06 64 10 0 3618
+rest 06 361e
+note 38 09 64 10 0 3624
+rest 03 362d
+note 38 06 64 10 0 3630
+rest 06 3636
+note 3f 09 64 10 0 363c
+rest 03 3645
+note 42 06 64 10 0 3648
+rest 06 364e
+note 44 09 64 10 0 3654
+rest 03 365d
+note 2c 06 64 10 1 3660
+note 27 03 64 10 1 3666
+chord 1 2c 03 64 10 2 3666
+note 27 03 64 10 1 3669
+note 27 03 64 10 2 366c
+chord 1 28 03 64 10 1 366c
+note 28 03 64 10 1 366f
+note 28 03 64 10 2 3672
+chord 1 2a 03 64 10 1 3672
+note 2a 03 64 10 1 3675
+note 2a 03 64 10 2 3678
+chord 1 2c 03 64 10 1 3678
+note 2c 03 64 10 1 367b
+note 2c 03 64 10 2 367e
+chord 1 2e 03 64 10 1 367e
+note 2e 03 64 10 1 3681
+note 2e 03 64 10 2 3684
+chord 1 2f 03 64 10 1 3684
+note 2f 03 64 10 1 3687
+note 2f 03 64 10 2 368a
+chord 1 31 03 64 10 1 368a
+note 31 03 64 10 1 368d
+note 31 03 64 10 2 3690
+chord 1 33 03 64 10 1 3690
+note 33 03 64 10 1 3693
+note 33 03 64 10 2 3696
+chord 1 34 03 64 10 1 3696
+note 34 03 64 10 1 3699
+note 34 03 64 10 2 369c
+chord 1 36 03 64 10 1 369c
+note 36 03 64 10 1 369f
+note 36 03 64 10 2 36a2
+chord 1 38 03 64 10 1 36a2
+note 38 03 64 10 1 36a5
+note 38 03 64 10 2 36a8
+chord 1 3a 03 64 10 1 36a8
+note 3a 03 64 10 1 36ab
+note 3a 03 64 10 2 36ae
+chord 1 3b 03 64 10 1 36ae
+note 3b 03 64 10 1 36b1
+note 3b 03 64 10 2 36b4
+chord 1 3d 03 64 10 1 36b4
+note 3d 03 64 10 1 36b7
+note 3d 03 64 10 2 36ba
+chord 1 3f 03 64 10 0 36ba
+rest 03 36bd
+New Measure (36c0)
+note 1e 06 64 10 0 36c0
+note 22 06 64 10 1 36c6
+note 22 06 64 10 2 36cc
+chord 1 25 06 64 10 0 36cc
+rest 06 36d2
+note 27 06 64 10 1 36d8
+note 27 06 64 10 2 36de
+chord 1 2a 06 64 10 0 36de
+note 2e 06 64 10 0 36e4
+rest 06 36ea
+note 31 06 64 10 0 36f0
+note 33 06 64 10 1 36f6
+note 33 06 64 10 2 36fc
+chord 1 36 06 64 10 0 36fc
+rest 06 3702
+note 3a 06 64 10 0 3708
+note 3d 06 64 10 0 370e
+note 3f 0c 64 10 0 3714
+note 42 06 64 10 0 3720
+note 3f 06 64 10 1 3726
+note 3d 06 64 10 0 372c
+chord 1 3f 06 64 10 2 372c
+rest 06 3732
+note 3a 06 64 10 0 3738
+note 36 06 64 10 0 373e
+note 33 0c 64 10 0 3744
+note 31 06 64 10 0 3750
+note 2e 06 64 10 0 3756
+note 2a 06 64 10 0 375c
+rest 06 3762
+note 27 06 64 10 1 3768
+note 25 06 64 10 0 376e
+chord 1 27 06 64 10 2 376e
+note 22 06 64 10 0 3774
+rest 06 377a
+New Measure (3780)
+note 1c 06 64 10 0 3780
+note 20 06 64 10 0 3786
+note 23 06 64 10 0 378c
+rest 06 3792
+note 25 06 64 10 0 3798
+note 28 06 64 10 0 379e
+note 2c 06 64 10 0 37a4
+rest 06 37aa
+note 2f 06 64 10 0 37b0
+note 31 06 64 10 1 37b6
+note 31 06 64 10 2 37bc
+chord 1 34 06 64 10 0 37bc
+rest 06 37c2
+note 38 06 64 10 0 37c8
+note 3b 06 64 10 0 37ce
+note 3d 0c 64 10 0 37d4
+note 40 06 64 10 0 37e0
+note 3d 06 64 10 1 37e6
+note 3b 06 64 10 0 37ec
+chord 1 3d 06 64 10 2 37ec
+rest 06 37f2
+note 38 06 64 10 0 37f8
+note 34 06 64 10 0 37fe
+note 31 0c 64 10 0 3804
+note 2f 06 64 10 0 3810
+note 2c 06 64 10 0 3816
+note 28 06 64 10 0 381c
+rest 06 3822
+note 25 06 64 10 0 3828
+note 23 06 64 10 0 382e
+note 20 06 64 10 0 3834
+rest 06 383a
+New Measure (3840)
+note 1e 06 64 10 0 3840
+note 22 06 64 10 0 3846
+note 25 06 64 10 0 384c
+rest 06 3852
+note 28 06 64 10 0 3858
+note 2a 06 64 10 0 385e
+note 2e 06 64 10 0 3864
+rest 06 386a
+note 31 06 64 10 0 3870
+note 34 06 64 10 0 3876
+note 36 06 64 10 0 387c
+rest 06 3882
+note 3a 06 64 10 0 3888
+note 3d 06 64 10 0 388e
+note 40 06 64 10 0 3894
+rest 06 389a
+note 42 06 64 10 0 38a0
+note 40 06 64 10 0 38a6
+note 3d 06 64 10 0 38ac
+rest 06 38b2
+note 3a 06 64 10 0 38b8
+note 36 06 64 10 0 38be
+note 34 06 64 10 0 38c4
+rest 06 38ca
+note 31 06 64 10 0 38d0
+note 2e 06 64 10 0 38d6
+note 2a 06 64 10 0 38dc
+rest 06 38e2
+note 28 06 64 10 0 38e8
+note 25 06 64 10 0 38ee
+note 22 06 64 10 0 38f4
+rest 06 38fa
+New Measure (3900)
+note 1c 06 64 10 0 3900
+note 20 06 64 10 0 3906
+note 23 06 64 10 0 390c
+rest 06 3912
+note 25 06 64 10 0 3918
+note 28 06 64 10 0 391e
+note 2c 06 64 10 0 3924
+rest 06 392a
+note 2f 06 64 10 0 3930
+note 32 06 64 10 0 3936
+note 34 06 64 10 0 393c
+rest 06 3942
+note 38 06 64 10 0 3948
+note 3b 06 64 10 0 394e
+note 3e 06 64 10 0 3954
+rest 06 395a
+note 40 06 64 10 0 3960
+note 3e 06 64 10 0 3966
+note 3b 06 64 10 0 396c
+rest 06 3972
+note 38 06 64 10 0 3978
+note 34 06 64 10 0 397e
+note 32 06 64 10 0 3984
+rest 06 398a
+note 2f 06 64 10 0 3990
+note 2c 06 64 10 0 3996
+note 28 06 64 10 0 399c
+rest 06 39a2
+note 25 06 64 10 0 39a8
+note 23 06 64 10 0 39ae
+note 20 06 64 10 0 39b4
+rest 06 39ba
+New Measure (39c0)
+note 1c 06 64 10 0 39c0
+note 20 06 64 10 1 39c6
+note 20 06 64 10 2 39cc
+chord 1 23 06 64 10 0 39cc
+rest 06 39d2
+note 25 06 64 10 1 39d8
+note 25 06 64 10 2 39de
+chord 1 28 06 64 10 0 39de
+note 2c 0c 64 10 0 39e4
+note 2f 06 64 10 0 39f0
+note 31 06 64 10 1 39f6
+note 31 06 64 10 2 39fc
+chord 1 34 06 64 10 0 39fc
+rest 06 3a02
+note 38 06 64 10 1 3a08
+note 38 06 64 10 2 3a0e
+chord 1 3b 06 64 10 0 3a0e
+note 3d 0c 64 10 0 3a14
+note 3f 06 64 10 0 3a20
+note 3d 06 64 10 1 3a26
+note 3a 06 64 10 0 3a2c
+chord 1 3d 06 64 10 2 3a2c
+rest 06 3a32
+note 36 06 64 10 1 3a38
+note 33 06 64 10 0 3a3e
+chord 1 36 06 64 10 2 3a3e
+note 31 0c 64 10 0 3a44
+note 2e 06 64 10 0 3a50
+note 2a 06 64 10 1 3a56
+note 27 06 64 10 0 3a5c
+chord 1 2a 06 64 10 2 3a5c
+rest 06 3a62
+note 25 06 64 10 1 3a68
+note 22 06 64 10 0 3a6e
+chord 1 25 06 64 10 2 3a6e
+note 1e 0c 64 10 0 3a74
+New Measure (3a80)
+note 2c 06 64 10 0 3a80
+rest 06 3a86
+note 2f 0c 64 10 0 3a8c
+note 33 06 64 10 0 3a98
+rest 06 3a9e
+note 36 0c 64 10 0 3aa4
+note 38 06 64 10 0 3ab0
+rest 06 3ab6
+note 3b 0c 64 10 0 3abc
+note 3f 06 64 10 0 3ac8
+rest 06 3ace
+note 44 0c 64 10 0 3ad4
+note 2c 06 64 10 0 3ae0
+rest 06 3ae6
+note 31 0c 64 10 0 3aec
+note 34 06 64 10 0 3af8
+rest 06 3afe
+note 36 0c 64 10 0 3b04
+note 38 06 64 10 0 3b10
+rest 06 3b16
+note 3d 0c 64 10 0 3b1c
+note 40 06 64 10 0 3b28
+rest 06 3b2e
+note 44 0c 64 10 0 3b34
+New Measure (3b40)
+note 2c 06 64 10 0 3b40
+rest 06 3b46
+note 33 0c 64 10 0 3b4c
+note 36 06 64 10 0 3b58
+rest 06 3b5e
+note 38 0c 64 10 0 3b64
+note 38 06 64 10 0 3b70
+rest 06 3b76
+note 3f 0c 64 10 0 3b7c
+note 42 06 64 10 0 3b88
+rest 06 3b8e
+note 44 0c 64 10 0 3b94
+note 2c 06 64 10 0 3ba0
+rest 06 3ba6
+note 31 0c 64 10 0 3bac
+note 34 06 64 10 0 3bb8
+rest 06 3bbe
+note 38 0c 64 10 0 3bc4
+note 38 0c 64 10 0 3bd0
+note 3d 0c 64 10 0 3bdc
+note 40 0c 64 10 0 3be8
+note 44 0c 64 10 0 3bf4
+New Measure (3c00)
+note 2c 06 64 10 0 3c00
+rest 06 3c06
+note 2f 0c 64 10 0 3c0c
+note 33 06 64 10 0 3c18
+rest 06 3c1e
+note 36 0c 64 10 0 3c24
+note 38 06 64 10 0 3c30
+rest 06 3c36
+note 3b 0c 64 10 0 3c3c
+note 3f 06 64 10 0 3c48
+rest 06 3c4e
+note 44 0c 64 10 0 3c54
+note 2c 06 64 10 0 3c60
+rest 06 3c66
+note 31 0c 64 10 0 3c6c
+note 34 06 64 10 0 3c78
+rest 06 3c7e
+note 36 0c 64 10 0 3c84
+note 38 06 64 10 0 3c90
+rest 06 3c96
+note 3d 0c 64 10 0 3c9c
+note 40 06 64 10 0 3ca8
+rest 06 3cae
+note 44 0c 64 10 0 3cb4
+New Measure (3cc0)
+note 2c 06 64 10 0 3cc0
+rest 06 3cc6
+note 33 0c 64 10 0 3ccc
+note 36 06 64 10 0 3cd8
+rest 06 3cde
+note 38 0c 64 10 0 3ce4
+note 38 06 64 10 0 3cf0
+rest 06 3cf6
+note 3f 0c 64 10 0 3cfc
+note 42 06 64 10 0 3d08
+rest 06 3d0e
+note 44 0c 64 10 0 3d14
+note 2c 06 64 10 0 3d20
+rest 06 3d26
+note 31 0c 64 10 0 3d2c
+note 34 06 64 10 0 3d38
+rest 06 3d3e
+note 38 0c 64 10 0 3d44
+note 38 0c 64 10 0 3d50
+note 3d 0c 64 10 0 3d5c
+note 40 0c 64 10 0 3d68
+note 44 0c 64 10 0 3d74
+New Measure (3d80)
+note 2c 06 64 10 0 3d80
+rest 06 3d86
+note 2f 0c 64 10 0 3d8c
+note 33 06 64 10 0 3d98
+rest 06 3d9e
+note 36 0c 64 10 0 3da4
+note 38 06 64 10 0 3db0
+rest 06 3db6
+note 3b 0c 64 10 0 3dbc
+note 3f 06 64 10 0 3dc8
+rest 06 3dce
+note 44 0c 64 10 0 3dd4
+note 2c 06 64 10 0 3de0
+rest 06 3de6
+note 31 0c 64 10 0 3dec
+note 34 06 64 10 0 3df8
+rest 06 3dfe
+note 36 0c 64 10 0 3e04
+note 38 06 64 10 0 3e10
+rest 06 3e16
+note 3d 0c 64 10 0 3e1c
+note 40 06 64 10 0 3e28
+rest 06 3e2e
+note 44 0c 64 10 0 3e34
+New Measure (3e40)
+note 2c 06 64 10 0 3e40
+rest 06 3e46
+note 33 0c 64 10 0 3e4c
+note 36 06 64 10 0 3e58
+rest 06 3e5e
+note 38 0c 64 10 0 3e64
+note 38 06 64 10 0 3e70
+rest 06 3e76
+note 3f 0c 64 10 0 3e7c
+note 42 06 64 10 0 3e88
+rest 06 3e8e
+note 44 0c 64 10 0 3e94
+note 2c 06 64 10 0 3ea0
+rest 06 3ea6
+note 31 0c 64 10 0 3eac
+note 34 06 64 10 0 3eb8
+rest 06 3ebe
+note 38 0c 64 10 0 3ec4
+note 38 0c 64 10 0 3ed0
+note 3d 0c 64 10 0 3edc
+note 40 0c 64 10 0 3ee8
+note 44 0c 64 10 0 3ef4
+New Measure (3f00)
+note 2c 06 64 10 0 3f00
+rest 06 3f06
+note 2f 0c 64 10 0 3f0c
+note 33 06 64 10 0 3f18
+rest 06 3f1e
+note 36 0c 64 10 0 3f24
+note 38 06 64 10 0 3f30
+rest 06 3f36
+note 3b 0c 64 10 0 3f3c
+note 3f 06 64 10 0 3f48
+rest 06 3f4e
+note 44 0c 64 10 0 3f54
+note 2c 06 64 10 0 3f60
+rest 06 3f66
+note 31 0c 64 10 0 3f6c
+note 34 06 64 10 0 3f78
+rest 06 3f7e
+note 36 0c 64 10 0 3f84
+note 38 06 64 10 0 3f90
+rest 06 3f96
+note 3d 0c 64 10 0 3f9c
+note 40 06 64 10 0 3fa8
+rest 06 3fae
+note 44 0c 64 10 0 3fb4
+New Measure (3fc0)
+note 2c 06 64 10 0 3fc0
+rest 06 3fc6
+note 33 09 64 10 0 3fcc
+rest 03 3fd5
+note 36 06 64 10 0 3fd8
+rest 06 3fde
+note 38 09 64 10 0 3fe4
+rest 03 3fed
+note 38 06 64 10 0 3ff0
+rest 06 3ff6
+note 3f 09 64 10 0 3ffc
+rest 03 4005
+note 42 06 64 10 0 4008
+rest 06 400e
+note 44 09 64 10 0 4014
+rest 03 401d
+note 2c 06 64 10 1 4020
+note 27 03 64 10 1 4026
+chord 1 2c 03 64 10 2 4026
+note 27 03 64 10 1 4029
+note 27 03 64 10 2 402c
+chord 1 28 03 64 10 1 402c
+note 28 03 64 10 1 402f
+note 28 03 64 10 2 4032
+chord 1 2a 03 64 10 1 4032
+note 2a 03 64 10 1 4035
+note 2a 03 64 10 2 4038
+chord 1 2c 03 64 10 1 4038
+note 2c 03 64 10 1 403b
+note 2c 03 64 10 2 403e
+chord 1 2e 03 64 10 1 403e
+note 2e 03 64 10 1 4041
+note 2e 03 64 10 2 4044
+chord 1 2f 03 64 10 1 4044
+note 2f 03 64 10 1 4047
+note 2f 03 64 10 2 404a
+chord 1 31 03 64 10 1 404a
+note 31 03 64 10 1 404d
+note 31 03 64 10 2 4050
+chord 1 33 03 64 10 1 4050
+note 33 03 64 10 1 4053
+note 33 03 64 10 2 4056
+chord 1 34 03 64 10 1 4056
+note 34 03 64 10 1 4059
+note 34 03 64 10 2 405c
+chord 1 36 03 64 10 1 405c
+note 36 03 64 10 1 405f
+note 36 03 64 10 2 4062
+chord 1 38 03 64 10 1 4062
+note 38 03 64 10 1 4065
+note 38 03 64 10 2 4068
+chord 1 3a 03 64 10 1 4068
+note 3a 03 64 10 1 406b
+note 3a 03 64 10 2 406e
+chord 1 3b 03 64 10 1 406e
+note 3b 03 64 10 1 4071
+note 3b 03 64 10 2 4074
+chord 1 3d 03 64 10 1 4074
+note 3d 03 64 10 1 4077
+note 3d 03 64 10 2 407a
+chord 1 3f 03 64 10 0 407a
+rest 03 407d
+New Measure (4080)
+note 2a 0c 64 10 0 4080
+note 2e 0c 64 10 0 408c
+note 33 0c 64 10 0 4098
+note 36 0c 64 10 0 40a4
+note 36 0c 64 10 0 40b0
+note 3a 0c 64 10 0 40bc
+note 3f 0c 64 10 0 40c8
+note 42 0c 64 10 0 40d4
+note 28 0c 64 10 0 40e0
+note 2c 0c 64 10 0 40ec
+note 2f 0c 64 10 0 40f8
+note 34 0c 64 10 0 4104
+note 34 0c 64 10 0 4110
+note 38 0c 64 10 0 411c
+note 3b 0c 64 10 0 4128
+note 40 0c 64 10 0 4134
+New Measure (4140)
+note 27 0c 64 10 0 4140
+note 2a 0c 64 10 0 414c
+note 2e 0c 64 10 0 4158
+note 33 0c 64 10 0 4164
+note 33 0c 64 10 0 4170
+note 36 0c 64 10 0 417c
+note 3a 0c 64 10 0 4188
+note 3f 0c 64 10 0 4194
+note 25 0c 64 10 0 41a0
+note 28 0c 64 10 0 41ac
+note 2c 0c 64 10 0 41b8
+note 31 0c 64 10 0 41c4
+note 31 0c 64 10 0 41d0
+note 34 0c 64 10 0 41dc
+note 38 0c 64 10 0 41e8
+note 3d 0c 64 10 0 41f4
+New Measure (4200)
+note 27 0c 64 10 0 4200
+note 2a 0c 64 10 0 420c
+note 2e 0c 64 10 0 4218
+note 33 0c 64 10 0 4224
+note 33 0c 64 10 0 4230
+note 36 0c 64 10 0 423c
+note 3a 0c 64 10 0 4248
+note 3f 0c 64 10 0 4254
+New Measure (4260)
+note 42 0c 64 10 0 4260
+chord 1 44 0c 64 10 0 4260
+note 3f 0c 64 10 0 426c
+chord 1 40 0c 64 10 0 426c
+note 40 0c 64 10 0 4278
+chord 1 42 0c 64 10 0 4278
+note 3d 0c 64 10 0 4284
+chord 1 3f 0c 64 10 0 4284
+note 3f 0c 64 10 0 4290
+chord 1 40 0c 64 10 0 4290
+note 3b 0c 64 10 0 429c
+chord 1 3d 0c 64 10 0 429c
+note 38 0c 64 10 0 42a8
+chord 1 3a 0c 64 10 0 42a8
+note 36 0c 64 10 0 42b4
+chord 1 38 0c 64 10 0 42b4
+note 38 0c 64 10 0 42c0
+chord 1 3a 0c 64 10 0 42c0
+note 34 0c 64 10 0 42cc
+chord 1 36 0c 64 10 0 42cc
+note 36 0c 64 10 0 42d8
+chord 1 38 0c 64 10 0 42d8
+note 33 0c 64 10 0 42e4
+chord 1 34 0c 64 10 0 42e4
+note 34 0c 64 10 0 42f0
+chord 1 36 0c 64 10 0 42f0
+note 31 0c 64 10 0 42fc
+chord 1 33 0c 64 10 0 42fc
+note 2e 0c 64 10 0 4308
+chord 1 2f 0c 64 10 0 4308
+note 2c 0c 64 10 0 4314
+New Measure (4320)
+note 2c 06 64 10 0 4320
+rest 06 4326
+note 33 0c 64 10 0 432c
+note 36 06 64 10 0 4338
+rest 06 433e
+note 38 0c 64 10 0 4344
+note 38 06 64 10 0 4350
+rest 06 4356
+note 3f 0c 64 10 0 435c
+note 42 06 64 10 0 4368
+rest 06 436e
+note 44 0c 64 10 0 4374
+note 2c 06 64 10 0 4380
+rest 06 4386
+note 31 0c 64 10 0 438c
+note 34 06 64 10 0 4398
+rest 06 439e
+note 38 0c 64 10 0 43a4
+note 38 0c 64 10 0 43b0
+note 3d 0c 64 10 0 43bc
+note 40 0c 64 10 0 43c8
+note 44 0c 64 10 0 43d4
+New Measure (43e0)
+note 2c 06 64 10 0 43e0
+rest 06 43e6
+note 2f 0c 64 10 0 43ec
+note 33 06 64 10 0 43f8
+rest 06 43fe
+note 36 0c 64 10 0 4404
+note 38 06 64 10 0 4410
+rest 06 4416
+note 3b 0c 64 10 0 441c
+note 3f 06 64 10 0 4428
+rest 06 442e
+note 44 0c 64 10 0 4434
+note 2c 06 64 10 0 4440
+rest 06 4446
+note 31 0c 64 10 0 444c
+note 34 06 64 10 0 4458
+rest 06 445e
+note 36 0c 64 10 0 4464
+note 38 06 64 10 0 4470
+rest 06 4476
+note 3d 0c 64 10 0 447c
+note 40 06 64 10 0 4488
+rest 06 448e
+note 44 0c 64 10 0 4494
+New Measure (44a0)
+note 2c 06 64 10 0 44a0
+rest 06 44a6
+note 33 0c 64 10 0 44ac
+note 36 06 64 10 0 44b8
+rest 06 44be
+note 38 0c 64 10 0 44c4
+note 38 06 64 10 0 44d0
+rest 06 44d6
+note 3f 0c 64 10 0 44dc
+note 42 06 64 10 0 44e8
+rest 06 44ee
+note 44 0c 64 10 0 44f4
+note 2c 06 64 10 0 4500
+rest 06 4506
+note 31 0c 64 10 0 450c
+note 34 06 64 10 0 4518
+rest 06 451e
+note 38 0c 64 10 0 4524
+note 38 0c 64 10 0 4530
+note 3d 0c 64 10 0 453c
+note 40 0c 64 10 0 4548
+note 44 0c 64 10 0 4554
+New Measure (4560)
+note 2c 06 64 10 0 4560
+rest 06 4566
+note 2f 0c 64 10 0 456c
+note 33 06 64 10 0 4578
+rest 06 457e
+note 36 0c 64 10 0 4584
+note 38 06 64 10 0 4590
+rest 06 4596
+note 3b 0c 64 10 0 459c
+note 3f 06 64 10 0 45a8
+rest 06 45ae
+note 44 0c 64 10 0 45b4
+note 2c 06 64 10 0 45c0
+rest 06 45c6
+note 31 0c 64 10 0 45cc
+note 34 06 64 10 0 45d8
+rest 06 45de
+note 36 0c 64 10 0 45e4
+note 38 06 64 10 0 45f0
+rest 06 45f6
+note 3d 0c 64 10 0 45fc
+note 40 06 64 10 0 4608
+rest 06 460e
+note 44 0c 64 10 0 4614
+New Measure (4620)
+note 2c 06 64 10 0 4620
+rest 06 4626
+note 33 09 64 10 0 462c
+rest 03 4635
+note 36 06 64 10 0 4638
+rest 06 463e
+note 38 09 64 10 0 4644
+rest 03 464d
+note 38 06 64 10 0 4650
+rest 06 4656
+note 3f 09 64 10 0 465c
+rest 03 4665
+note 42 06 64 10 0 4668
+rest 06 466e
+note 44 09 64 10 0 4674
+rest 03 467d
+note 2c 06 64 10 1 4680
+note 27 03 64 10 1 4686
+chord 1 2c 03 64 10 2 4686
+note 27 03 64 10 1 4689
+note 27 03 64 10 2 468c
+chord 1 28 03 64 10 1 468c
+note 28 03 64 10 1 468f
+note 28 03 64 10 2 4692
+chord 1 2a 03 64 10 1 4692
+note 2a 03 64 10 1 4695
+note 2a 03 64 10 2 4698
+chord 1 2c 03 64 10 1 4698
+note 2c 03 64 10 1 469b
+note 2c 03 64 10 2 469e
+chord 1 2e 03 64 10 1 469e
+note 2e 03 64 10 1 46a1
+note 2e 03 64 10 2 46a4
+chord 1 2f 03 64 10 1 46a4
+note 2f 03 64 10 1 46a7
+note 2f 03 64 10 2 46aa
+chord 1 31 03 64 10 1 46aa
+note 31 03 64 10 1 46ad
+note 31 03 64 10 2 46b0
+chord 1 33 03 64 10 1 46b0
+note 33 03 64 10 1 46b3
+note 33 03 64 10 2 46b6
+chord 1 34 03 64 10 1 46b6
+note 34 03 64 10 1 46b9
+note 34 03 64 10 2 46bc
+chord 1 36 03 64 10 1 46bc
+note 36 03 64 10 1 46bf
+note 36 03 64 10 2 46c2
+chord 1 38 03 64 10 1 46c2
+note 38 03 64 10 1 46c5
+note 38 03 64 10 2 46c8
+chord 1 3a 03 64 10 1 46c8
+note 3a 03 64 10 1 46cb
+note 3a 03 64 10 2 46ce
+chord 1 3b 03 64 10 1 46ce
+note 3b 03 64 10 1 46d1
+note 3b 03 64 10 2 46d4
+chord 1 3d 03 64 10 1 46d4
+note 3d 03 64 10 1 46d7
+note 3d 03 64 10 2 46da
+chord 1 3f 03 64 10 0 46da
+rest 03 46dd
+New Measure (46e0)
+note 2a 0c 64 10 0 46e0
+note 2e 0c 64 10 0 46ec
+note 33 0c 64 10 0 46f8
+note 36 0c 64 10 0 4704
+note 36 0c 64 10 0 4710
+note 3a 0c 64 10 0 471c
+note 3f 0c 64 10 0 4728
+note 42 0c 64 10 0 4734
+note 28 0c 64 10 0 4740
+note 2c 0c 64 10 0 474c
+note 2f 0c 64 10 0 4758
+note 34 0c 64 10 0 4764
+note 34 0c 64 10 0 4770
+note 38 0c 64 10 0 477c
+note 3b 0c 64 10 0 4788
+note 40 0c 64 10 0 4794
+New Measure (47a0)
+note 27 0c 64 10 0 47a0
+note 2a 0c 64 10 0 47ac
+note 2e 0c 64 10 0 47b8
+note 33 0c 64 10 0 47c4
+note 33 0c 64 10 0 47d0
+note 36 0c 64 10 0 47dc
+note 3a 0c 64 10 0 47e8
+note 3f 0c 64 10 0 47f4
+note 25 0c 64 10 0 4800
+note 28 0c 64 10 0 480c
+note 2c 0c 64 10 0 4818
+note 31 0c 64 10 0 4824
+note 31 0c 64 10 0 4830
+note 34 0c 64 10 0 483c
+note 38 0c 64 10 0 4848
+note 3d 0c 64 10 0 4854
+New Measure (4860)
+note 27 0c 64 10 0 4860
+note 2a 0c 64 10 0 486c
+note 2e 0c 64 10 0 4878
+note 33 0c 64 10 0 4884
+note 33 0c 64 10 0 4890
+note 36 0c 64 10 0 489c
+note 3a 0c 64 10 0 48a8
+note 3f 0c 64 10 0 48b4
+New Measure (48c0)
+note 42 0c 64 10 0 48c0
+chord 1 44 0c 64 10 0 48c0
+note 3f 0c 64 10 0 48cc
+chord 1 40 0c 64 10 0 48cc
+note 40 0c 64 10 0 48d8
+chord 1 42 0c 64 10 0 48d8
+note 3d 0c 64 10 0 48e4
+chord 1 3f 0c 64 10 0 48e4
+note 3f 0c 64 10 0 48f0
+chord 1 40 0c 64 10 0 48f0
+note 3b 0c 64 10 0 48fc
+chord 1 3d 0c 64 10 0 48fc
+note 38 0c 64 10 0 4908
+chord 1 3a 0c 64 10 0 4908
+note 36 0c 64 10 0 4914
+chord 1 38 0c 64 10 0 4914
+note 38 0c 64 10 0 4920
+chord 1 3a 0c 64 10 0 4920
+note 34 0c 64 10 0 492c
+chord 1 36 0c 64 10 0 492c
+note 36 0c 64 10 0 4938
+chord 1 38 0c 64 10 0 4938
+note 33 0c 64 10 0 4944
+chord 1 34 0c 64 10 0 4944
+note 34 0c 64 10 0 4950
+chord 1 36 0c 64 10 0 4950
+note 31 0c 64 10 0 495c
+chord 1 33 0c 64 10 0 495c
+note 2e 0c 64 10 0 4968
+chord 1 2f 0c 64 10 0 4968
+note 2c 0c 64 10 0 4974
+New Measure (4980)
+note 2c 06 64 10 0 4980
+rest 06 4986
+note 33 09 64 10 0 498c
+rest 03 4995
+note 36 06 64 10 0 4998
+rest 06 499e
+note 38 09 64 10 0 49a4
+rest 03 49ad
+note 38 06 64 10 0 49b0
+rest 06 49b6
+note 3f 09 64 10 0 49bc
+rest 03 49c5
+note 42 06 64 10 0 49c8
+rest 06 49ce
+note 44 09 64 10 0 49d4
+rest 03 49dd
+note 2c 06 64 10 1 49e0
+note 27 03 64 10 1 49e6
+chord 1 2c 03 64 10 2 49e6
+note 27 03 64 10 1 49e9
+note 27 03 64 10 2 49ec
+chord 1 28 03 64 10 1 49ec
+note 28 03 64 10 1 49ef
+note 28 03 64 10 2 49f2
+chord 1 2a 03 64 10 1 49f2
+note 2a 03 64 10 1 49f5
+note 2a 03 64 10 2 49f8
+chord 1 2c 03 64 10 1 49f8
+note 2c 03 64 10 1 49fb
+note 2c 03 64 10 2 49fe
+chord 1 2e 03 64 10 1 49fe
+note 2e 03 64 10 1 4a01
+note 2e 03 64 10 2 4a04
+chord 1 2f 03 64 10 1 4a04
+note 2f 03 64 10 1 4a07
+note 2f 03 64 10 2 4a0a
+chord 1 31 03 64 10 1 4a0a
+note 31 03 64 10 1 4a0d
+note 31 03 64 10 2 4a10
+chord 1 33 03 64 10 1 4a10
+note 33 03 64 10 1 4a13
+note 33 03 64 10 2 4a16
+chord 1 34 03 64 10 1 4a16
+note 34 03 64 10 1 4a19
+note 34 03 64 10 2 4a1c
+chord 1 36 03 64 10 1 4a1c
+note 36 03 64 10 1 4a1f
+note 36 03 64 10 2 4a22
+chord 1 38 03 64 10 1 4a22
+note 38 03 64 10 1 4a25
+note 38 03 64 10 2 4a28
+chord 1 3a 03 64 10 1 4a28
+note 3a 03 64 10 1 4a2b
+note 3a 03 64 10 2 4a2e
+chord 1 3b 03 64 10 1 4a2e
+note 3b 03 64 10 1 4a31
+note 3b 03 64 10 2 4a34
+chord 1 3d 03 64 10 1 4a34
+note 3d 03 64 10 1 4a37
+note 3d 03 64 10 0 4a3a
+chord 1 3f 03 64 10 0 4a3a
+rest 03 4a3d
+TotalTimestamp 4a40
